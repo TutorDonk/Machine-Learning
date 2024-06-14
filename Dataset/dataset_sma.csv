@@ -1,0 +1,1001 @@
+id_user,id_tutor,jenjang_tutor,gender_tutor,daerah_tutor,pelajaran
+108,103,10,Female,Tanggerang,Bahasa Indonesia
+102,122,12,Male,Depok,Geografi
+49,103,11,Female,Tanggerang,Bahasa Indonesia
+156,138,10,Male,Tanggerang,Sejarah
+168,75,10,Female,Jakarta,Matematika
+131,91,12,Female,Bogor,Kimia
+116,73,10,Female,Tanggerang,Matematika
+103,139,12,Female,Bekasi,Sejarah
+172,134,10,Male,Bekasi,Sosiologi
+35,94,12,Male,Bekasi,Kimia
+106,141,12,Female,Bogor,Sejarah
+97,127,12,Female,Depok,Sosiologi
+51,144,12,Male,Bekasi,Ekonomi
+50,120,10,Male,Jakarta,Geografi
+141,117,10,Female,Depok,Bahasa Inggris
+28,81,12,Female,Bogor,Fisika
+114,144,10,Male,Bekasi,Ekonomi
+118,127,12,Female,Depok,Sosiologi
+51,116,11,Male,Bogor,Bahasa Inggris
+126,143,11,Female,Tanggerang,Ekonomi
+83,129,12,Female,Bekasi,Sosiologi
+130,141,12,Female,Bogor,Sejarah
+104,85,11,Female,Jakarta,Fisika
+54,90,12,Male,Jakarta,Kimia
+7,148,10,Male,Tanggerang,Ekonomi
+5,111,11,Female,Bogor,Bahasa Inggris
+99,75,11,Female,Jakarta,Matematika
+12,129,10,Female,Bekasi,Sosiologi
+97,93,10,Female,Tanggerang,Kimia
+88,114,11,Male,Bekasi,Bahasa Inggris
+133,111,11,Female,Bogor,Bahasa Inggris
+64,140,10,Male,Jakarta,Sejarah
+33,108,12,Male,Tanggerang,Bahasa Indonesia
+10,95,12,Female,Jakarta,Biologi
+142,87,11,Female,Depok,Kimia
+118,90,12,Male,Jakarta,Kimia
+60,82,12,Male,Depok,Fisika
+54,135,10,Female,Jakarta,Sejarah
+62,130,10,Male,Jakarta,Sosiologi
+176,95,10,Female,Jakarta,Biologi
+98,123,10,Female,Tanggerang,Geografi
+17,109,10,Female,Bekasi,Bahasa Indonesia
+197,74,10,Male,Bekasi,Matematika
+127,79,11,Female,Bekasi,Fisika
+57,146,10,Male,Bogor,Ekonomi
+61,138,11,Male,Tanggerang,Sejarah
+69,110,10,Male,Jakarta,Bahasa Indonesia
+184,92,10,Male,Depok,Kimia
+20,122,11,Male,Depok,Geografi
+6,135,10,Female,Jakarta,Sejarah
+122,97,11,Female,Depok,Biologi
+180,122,12,Male,Depok,Geografi
+152,95,11,Female,Jakarta,Biologi
+42,82,11,Male,Depok,Fisika
+36,125,11,Female,Jakarta,Geografi
+109,141,10,Female,Bogor,Sejarah
+90,137,12,Female,Depok,Sejarah
+123,101,11,Female,Bogor,Biologi
+49,125,11,Female,Jakarta,Geografi
+165,147,10,Female,Depok,Ekonomi
+188,129,12,Female,Bekasi,Sosiologi
+101,131,11,Female,Bogor,Sosiologi
+182,148,12,Male,Tanggerang,Ekonomi
+104,96,10,Male,Bogor,Biologi
+59,139,11,Female,Bekasi,Sejarah
+176,125,12,Female,Jakarta,Geografi
+116,80,12,Male,Jakarta,Fisika
+85,129,11,Female,Bekasi,Sosiologi
+112,141,10,Female,Bogor,Sejarah
+200,83,11,Female,Tanggerang,Fisika
+177,106,10,Male,Bogor,Bahasa Indonesia
+19,97,11,Female,Depok,Biologi
+81,114,10,Male,Bekasi,Bahasa Inggris
+44,131,10,Female,Bogor,Sosiologi
+180,142,12,Male,Depok,Sejarah
+30,102,12,Male,Depok,Biologi
+14,117,12,Female,Depok,Bahasa Inggris
+62,115,12,Female,Jakarta,Bahasa Inggris
+8,119,12,Female,Bekasi,Geografi
+8,150,10,Male,Jakarta,Ekonomi
+109,112,11,Male,Depok,Bahasa Inggris
+50,90,12,Male,Jakarta,Kimia
+92,73,12,Female,Tanggerang,Matematika
+113,112,10,Male,Depok,Bahasa Inggris
+61,138,11,Male,Tanggerang,Sejarah
+16,90,11,Male,Jakarta,Kimia
+25,125,10,Female,Jakarta,Geografi
+111,142,12,Male,Depok,Sejarah
+113,106,12,Male,Bogor,Bahasa Indonesia
+1,71,12,Female,Bogor,Matematika
+55,120,12,Male,Jakarta,Geografi
+123,137,10,Female,Depok,Sejarah
+145,97,12,Female,Depok,Biologi
+89,86,11,Male,Bogor,Fisika
+38,127,11,Female,Depok,Sosiologi
+110,131,12,Female,Bogor,Sosiologi
+2,150,10,Male,Jakarta,Ekonomi
+116,104,11,Male,Bekasi,Bahasa Indonesia
+179,107,12,Female,Depok,Bahasa Indonesia
+95,112,12,Male,Depok,Bahasa Inggris
+117,72,11,Male,Depok,Matematika
+84,118,10,Male,Tanggerang,Bahasa Inggris
+175,104,12,Male,Bekasi,Bahasa Indonesia
+134,138,11,Male,Tanggerang,Sejarah
+155,92,11,Male,Depok,Kimia
+145,74,10,Male,Bekasi,Matematika
+14,93,10,Female,Tanggerang,Kimia
+171,142,10,Male,Depok,Sejarah
+161,71,11,Female,Bogor,Matematika
+150,139,11,Female,Bekasi,Sejarah
+157,138,12,Male,Tanggerang,Sejarah
+119,108,10,Male,Tanggerang,Bahasa Indonesia
+31,78,12,Male,Tanggerang,Matematika
+150,97,10,Female,Depok,Biologi
+59,95,12,Female,Jakarta,Biologi
+120,124,10,Male,Bekasi,Geografi
+9,114,10,Male,Bekasi,Bahasa Inggris
+114,96,12,Male,Bogor,Biologi
+55,116,11,Male,Bogor,Bahasa Inggris
+76,87,11,Female,Depok,Kimia
+98,124,11,Male,Bekasi,Geografi
+150,75,12,Female,Jakarta,Matematika
+148,99,12,Female,Bekasi,Biologi
+189,132,11,Male,Depok,Sosiologi
+34,94,10,Male,Bekasi,Kimia
+88,78,10,Male,Tanggerang,Matematika
+12,124,12,Male,Bekasi,Geografi
+17,113,10,Female,Tanggerang,Bahasa Inggris
+41,137,11,Female,Depok,Sejarah
+120,108,12,Male,Tanggerang,Bahasa Indonesia
+58,128,12,Male,Tanggerang,Sosiologi
+48,142,11,Male,Depok,Sejarah
+7,147,11,Female,Depok,Ekonomi
+133,96,10,Male,Bogor,Biologi
+35,126,12,Male,Bogor,Geografi
+15,102,11,Male,Depok,Biologi
+74,142,11,Male,Depok,Sejarah
+66,119,12,Female,Bekasi,Geografi
+107,142,10,Male,Depok,Sejarah
+99,79,11,Female,Bekasi,Fisika
+87,122,10,Male,Depok,Geografi
+166,86,10,Male,Bogor,Fisika
+133,109,10,Female,Bekasi,Bahasa Indonesia
+190,112,10,Male,Depok,Bahasa Inggris
+69,111,10,Female,Bogor,Bahasa Inggris
+182,143,10,Female,Tanggerang,Ekonomi
+196,126,10,Male,Bogor,Geografi
+198,114,11,Male,Bekasi,Bahasa Inggris
+109,89,12,Female,Bekasi,Kimia
+120,88,10,Male,Tanggerang,Kimia
+106,140,10,Male,Jakarta,Sejarah
+15,122,10,Male,Depok,Geografi
+113,72,12,Male,Depok,Matematika
+189,140,10,Male,Jakarta,Sejarah
+160,105,12,Female,Jakarta,Bahasa Indonesia
+183,94,11,Male,Bekasi,Kimia
+18,98,10,Male,Tanggerang,Biologi
+6,146,10,Male,Bogor,Ekonomi
+35,133,12,Female,Tanggerang,Sosiologi
+137,147,10,Female,Depok,Ekonomi
+27,120,11,Male,Jakarta,Geografi
+181,105,10,Female,Jakarta,Bahasa Indonesia
+80,102,12,Male,Depok,Biologi
+33,148,10,Male,Tanggerang,Ekonomi
+102,74,10,Male,Bekasi,Matematika
+19,131,11,Female,Bogor,Sosiologi
+190,93,12,Female,Tanggerang,Kimia
+150,128,12,Male,Tanggerang,Sosiologi
+138,133,11,Female,Tanggerang,Sosiologi
+6,71,10,Female,Bogor,Matematika
+109,148,10,Male,Tanggerang,Ekonomi
+83,101,11,Female,Bogor,Biologi
+86,149,11,Female,Bekasi,Ekonomi
+55,140,10,Male,Jakarta,Sejarah
+163,89,10,Female,Bekasi,Kimia
+192,111,11,Female,Bogor,Bahasa Inggris
+123,83,11,Female,Tanggerang,Fisika
+90,131,11,Female,Bogor,Sosiologi
+25,138,10,Male,Tanggerang,Sejarah
+86,110,11,Male,Jakarta,Bahasa Indonesia
+105,116,12,Male,Bogor,Bahasa Inggris
+14,73,12,Female,Tanggerang,Matematika
+34,130,10,Male,Jakarta,Sosiologi
+19,144,10,Male,Bekasi,Ekonomi
+68,133,10,Female,Tanggerang,Sosiologi
+59,138,10,Male,Tanggerang,Sejarah
+71,119,12,Female,Bekasi,Geografi
+31,105,12,Female,Jakarta,Bahasa Indonesia
+123,127,10,Female,Depok,Sosiologi
+58,82,10,Male,Depok,Fisika
+14,78,10,Male,Tanggerang,Matematika
+21,102,12,Male,Depok,Biologi
+46,143,11,Female,Tanggerang,Ekonomi
+85,88,10,Male,Tanggerang,Kimia
+190,133,10,Female,Tanggerang,Sosiologi
+90,122,12,Male,Depok,Geografi
+179,87,10,Female,Depok,Kimia
+32,91,11,Female,Bogor,Kimia
+46,138,12,Male,Tanggerang,Sejarah
+43,75,10,Female,Jakarta,Matematika
+19,83,12,Female,Tanggerang,Fisika
+13,127,11,Female,Depok,Sosiologi
+169,100,12,Male,Jakarta,Biologi
+196,92,11,Male,Depok,Kimia
+39,132,11,Male,Depok,Sosiologi
+64,137,12,Female,Depok,Sejarah
+90,130,10,Male,Jakarta,Sosiologi
+175,146,12,Male,Bogor,Ekonomi
+182,79,10,Female,Bekasi,Fisika
+60,122,10,Male,Depok,Geografi
+83,71,11,Female,Bogor,Matematika
+81,115,11,Female,Jakarta,Bahasa Inggris
+165,93,11,Female,Tanggerang,Kimia
+42,103,10,Female,Tanggerang,Bahasa Indonesia
+8,118,11,Male,Tanggerang,Bahasa Inggris
+150,105,12,Female,Jakarta,Bahasa Indonesia
+53,147,10,Female,Depok,Ekonomi
+47,81,12,Female,Bogor,Fisika
+67,145,12,Female,Jakarta,Ekonomi
+98,92,12,Male,Depok,Kimia
+47,72,10,Male,Depok,Matematika
+113,89,10,Female,Bekasi,Kimia
+96,115,10,Female,Jakarta,Bahasa Inggris
+27,137,11,Female,Depok,Sejarah
+43,103,12,Female,Tanggerang,Bahasa Indonesia
+186,142,11,Male,Depok,Sejarah
+116,144,12,Male,Bekasi,Ekonomi
+114,108,12,Male,Tanggerang,Bahasa Indonesia
+156,104,12,Male,Bekasi,Bahasa Indonesia
+76,74,11,Male,Bekasi,Matematika
+198,147,12,Female,Depok,Ekonomi
+195,85,10,Female,Jakarta,Fisika
+62,73,12,Female,Tanggerang,Matematika
+187,123,10,Female,Tanggerang,Geografi
+69,109,10,Female,Bekasi,Bahasa Indonesia
+76,79,11,Female,Bekasi,Fisika
+23,133,11,Female,Tanggerang,Sosiologi
+187,94,12,Male,Bekasi,Kimia
+154,105,11,Female,Jakarta,Bahasa Indonesia
+16,118,12,Male,Tanggerang,Bahasa Inggris
+182,114,11,Male,Bekasi,Bahasa Inggris
+73,71,11,Female,Bogor,Matematika
+89,119,12,Female,Bekasi,Geografi
+41,80,10,Male,Jakarta,Fisika
+51,85,10,Female,Jakarta,Fisika
+198,129,10,Female,Bekasi,Sosiologi
+188,142,10,Male,Depok,Sejarah
+148,145,11,Female,Jakarta,Ekonomi
+68,111,11,Female,Bogor,Bahasa Inggris
+59,112,10,Male,Depok,Bahasa Inggris
+68,81,12,Female,Bogor,Fisika
+194,104,10,Male,Bekasi,Bahasa Indonesia
+91,72,10,Male,Depok,Matematika
+44,73,12,Female,Tanggerang,Matematika
+95,91,11,Female,Bogor,Kimia
+51,113,10,Female,Tanggerang,Bahasa Inggris
+83,90,10,Male,Jakarta,Kimia
+15,143,10,Female,Tanggerang,Ekonomi
+148,79,10,Female,Bekasi,Fisika
+78,80,11,Male,Jakarta,Fisika
+111,85,11,Female,Jakarta,Fisika
+67,110,10,Male,Jakarta,Bahasa Indonesia
+27,81,10,Female,Bogor,Fisika
+152,114,12,Male,Bekasi,Bahasa Inggris
+3,130,12,Male,Jakarta,Sosiologi
+109,118,11,Male,Tanggerang,Bahasa Inggris
+143,138,10,Male,Tanggerang,Sejarah
+31,104,11,Male,Bekasi,Bahasa Indonesia
+150,103,12,Female,Tanggerang,Bahasa Indonesia
+19,120,10,Male,Jakarta,Geografi
+120,134,10,Male,Bekasi,Sosiologi
+106,107,11,Female,Depok,Bahasa Indonesia
+55,92,10,Male,Depok,Kimia
+104,101,12,Female,Bogor,Biologi
+96,147,12,Female,Depok,Ekonomi
+133,132,12,Male,Depok,Sosiologi
+67,85,11,Female,Jakarta,Fisika
+173,139,11,Female,Bekasi,Sejarah
+55,93,12,Female,Tanggerang,Kimia
+165,95,10,Female,Jakarta,Biologi
+150,90,11,Male,Jakarta,Kimia
+103,145,12,Female,Jakarta,Ekonomi
+153,106,11,Male,Bogor,Bahasa Indonesia
+167,129,10,Female,Bekasi,Sosiologi
+171,78,10,Male,Tanggerang,Matematika
+143,105,12,Female,Jakarta,Bahasa Indonesia
+77,94,12,Male,Bekasi,Kimia
+8,79,11,Female,Bekasi,Fisika
+6,82,12,Male,Depok,Fisika
+158,121,12,Female,Bogor,Geografi
+183,76,11,Male,Bogor,Matematika
+188,110,11,Male,Jakarta,Bahasa Indonesia
+146,85,12,Female,Jakarta,Fisika
+160,114,12,Male,Bekasi,Bahasa Inggris
+20,119,10,Female,Bekasi,Geografi
+118,110,10,Male,Jakarta,Bahasa Indonesia
+137,75,11,Female,Jakarta,Matematika
+173,127,10,Female,Depok,Sosiologi
+113,149,11,Female,Bekasi,Ekonomi
+54,127,10,Female,Depok,Sosiologi
+36,131,10,Female,Bogor,Sosiologi
+97,115,10,Female,Jakarta,Bahasa Inggris
+36,135,11,Female,Jakarta,Sejarah
+177,134,10,Male,Bekasi,Sosiologi
+6,98,11,Male,Tanggerang,Biologi
+29,96,11,Male,Bogor,Biologi
+190,118,12,Male,Tanggerang,Bahasa Inggris
+5,129,10,Female,Bekasi,Sosiologi
+114,94,10,Male,Bekasi,Kimia
+9,106,12,Male,Bogor,Bahasa Indonesia
+25,145,11,Female,Jakarta,Ekonomi
+72,74,12,Male,Bekasi,Matematika
+196,119,10,Female,Bekasi,Geografi
+29,125,11,Female,Jakarta,Geografi
+129,146,11,Male,Bogor,Ekonomi
+73,107,11,Female,Depok,Bahasa Indonesia
+69,108,11,Male,Tanggerang,Bahasa Indonesia
+150,75,10,Female,Jakarta,Matematika
+37,107,10,Female,Depok,Bahasa Indonesia
+39,76,10,Male,Bogor,Matematika
+35,123,10,Female,Tanggerang,Geografi
+80,87,10,Female,Depok,Kimia
+165,121,12,Female,Bogor,Geografi
+38,137,10,Female,Depok,Sejarah
+154,144,11,Male,Bekasi,Ekonomi
+64,132,12,Male,Depok,Sosiologi
+192,101,11,Female,Bogor,Biologi
+82,83,12,Female,Tanggerang,Fisika
+17,119,10,Female,Bekasi,Geografi
+122,73,11,Female,Tanggerang,Matematika
+43,139,12,Female,Bekasi,Sejarah
+145,124,12,Male,Bekasi,Geografi
+84,123,11,Female,Tanggerang,Geografi
+153,124,12,Male,Bekasi,Geografi
+65,101,10,Female,Bogor,Biologi
+83,139,11,Female,Bekasi,Sejarah
+175,115,10,Female,Jakarta,Bahasa Inggris
+123,90,10,Male,Jakarta,Kimia
+72,104,12,Male,Bekasi,Bahasa Indonesia
+138,146,10,Male,Bogor,Ekonomi
+127,118,12,Male,Tanggerang,Bahasa Inggris
+127,72,11,Male,Depok,Matematika
+33,121,10,Female,Bogor,Geografi
+132,147,12,Female,Depok,Ekonomi
+23,84,12,Male,Bekasi,Fisika
+9,83,11,Female,Tanggerang,Fisika
+65,86,12,Male,Bogor,Fisika
+110,82,11,Male,Depok,Fisika
+37,77,12,Female,Depok,Matematika
+175,78,10,Male,Tanggerang,Matematika
+194,84,10,Male,Bekasi,Fisika
+50,72,10,Male,Depok,Matematika
+152,102,10,Male,Depok,Biologi
+65,129,11,Female,Bekasi,Sosiologi
+38,75,10,Female,Jakarta,Matematika
+91,119,11,Female,Bekasi,Geografi
+64,138,12,Male,Tanggerang,Sejarah
+122,82,12,Male,Depok,Fisika
+47,112,11,Male,Depok,Bahasa Inggris
+81,74,10,Male,Bekasi,Matematika
+148,108,11,Male,Tanggerang,Bahasa Indonesia
+3,124,12,Male,Bekasi,Geografi
+18,84,10,Male,Bekasi,Fisika
+5,111,11,Female,Bogor,Bahasa Inggris
+73,145,12,Female,Jakarta,Ekonomi
+151,110,11,Male,Jakarta,Bahasa Indonesia
+92,116,12,Male,Bogor,Bahasa Inggris
+194,108,10,Male,Tanggerang,Bahasa Indonesia
+179,114,11,Male,Bekasi,Bahasa Inggris
+76,127,10,Female,Depok,Sosiologi
+55,117,12,Female,Depok,Bahasa Inggris
+63,72,12,Male,Depok,Matematika
+89,88,10,Male,Tanggerang,Kimia
+198,81,10,Female,Bogor,Fisika
+108,135,12,Female,Jakarta,Sejarah
+58,88,10,Male,Tanggerang,Kimia
+20,110,12,Male,Jakarta,Bahasa Indonesia
+162,74,12,Male,Bekasi,Matematika
+98,92,11,Male,Depok,Kimia
+156,88,10,Male,Tanggerang,Kimia
+60,101,11,Female,Bogor,Biologi
+69,94,10,Male,Bekasi,Kimia
+46,122,12,Male,Depok,Geografi
+127,107,11,Female,Depok,Bahasa Indonesia
+87,142,10,Male,Depok,Sejarah
+1,144,12,Male,Bekasi,Ekonomi
+93,113,12,Female,Tanggerang,Bahasa Inggris
+195,138,11,Male,Tanggerang,Sejarah
+115,86,12,Male,Bogor,Fisika
+65,99,11,Female,Bekasi,Biologi
+38,94,10,Male,Bekasi,Kimia
+73,105,12,Female,Jakarta,Bahasa Indonesia
+172,102,10,Male,Depok,Biologi
+48,148,10,Male,Tanggerang,Ekonomi
+107,96,12,Male,Bogor,Biologi
+96,84,12,Male,Bekasi,Fisika
+159,150,11,Male,Jakarta,Ekonomi
+126,122,11,Male,Depok,Geografi
+156,119,11,Female,Bekasi,Geografi
+132,79,12,Female,Bekasi,Fisika
+110,83,11,Female,Tanggerang,Fisika
+43,91,12,Female,Bogor,Kimia
+144,110,12,Male,Jakarta,Bahasa Indonesia
+102,96,11,Male,Bogor,Biologi
+118,84,11,Male,Bekasi,Fisika
+68,137,10,Female,Depok,Sejarah
+51,123,12,Female,Tanggerang,Geografi
+159,88,12,Male,Tanggerang,Kimia
+40,137,12,Female,Depok,Sejarah
+140,102,10,Male,Depok,Biologi
+89,117,10,Female,Depok,Bahasa Inggris
+13,95,12,Female,Jakarta,Biologi
+119,90,10,Male,Jakarta,Kimia
+171,72,10,Male,Depok,Matematika
+178,132,12,Male,Depok,Sosiologi
+104,111,10,Female,Bogor,Bahasa Inggris
+191,114,10,Male,Bekasi,Bahasa Inggris
+78,107,11,Female,Depok,Bahasa Indonesia
+122,80,10,Male,Jakarta,Fisika
+116,149,10,Female,Bekasi,Ekonomi
+55,80,10,Male,Jakarta,Fisika
+62,149,10,Female,Bekasi,Ekonomi
+119,89,11,Female,Bekasi,Kimia
+39,150,12,Male,Jakarta,Ekonomi
+137,77,12,Female,Depok,Matematika
+33,83,11,Female,Tanggerang,Fisika
+132,79,10,Female,Bekasi,Fisika
+98,104,11,Male,Bekasi,Bahasa Indonesia
+187,132,12,Male,Depok,Sosiologi
+139,129,11,Female,Bekasi,Sosiologi
+62,146,11,Male,Bogor,Ekonomi
+27,149,10,Female,Bekasi,Ekonomi
+79,83,10,Female,Tanggerang,Fisika
+27,88,11,Male,Tanggerang,Kimia
+104,91,12,Female,Bogor,Kimia
+68,113,11,Female,Tanggerang,Bahasa Inggris
+102,99,12,Female,Bekasi,Biologi
+4,97,10,Female,Depok,Biologi
+153,112,12,Male,Depok,Bahasa Inggris
+21,134,11,Male,Bekasi,Sosiologi
+101,105,12,Female,Jakarta,Bahasa Indonesia
+21,138,11,Male,Tanggerang,Sejarah
+125,124,10,Male,Bekasi,Geografi
+93,104,10,Male,Bekasi,Bahasa Indonesia
+118,85,12,Female,Jakarta,Fisika
+169,119,12,Female,Bekasi,Geografi
+97,126,11,Male,Bogor,Geografi
+71,113,10,Female,Tanggerang,Bahasa Inggris
+36,107,12,Female,Depok,Bahasa Indonesia
+91,133,10,Female,Tanggerang,Sosiologi
+48,145,11,Female,Jakarta,Ekonomi
+119,107,10,Female,Depok,Bahasa Indonesia
+149,117,10,Female,Depok,Bahasa Inggris
+82,118,10,Male,Tanggerang,Bahasa Inggris
+121,114,10,Male,Bekasi,Bahasa Inggris
+193,77,11,Female,Depok,Matematika
+16,145,11,Female,Jakarta,Ekonomi
+12,78,10,Male,Tanggerang,Matematika
+187,132,10,Male,Depok,Sosiologi
+127,116,11,Male,Bogor,Bahasa Inggris
+23,120,11,Male,Jakarta,Geografi
+82,84,11,Male,Bekasi,Fisika
+161,148,10,Male,Tanggerang,Ekonomi
+169,144,11,Male,Bekasi,Ekonomi
+42,129,12,Female,Bekasi,Sosiologi
+90,107,10,Female,Depok,Bahasa Indonesia
+104,136,11,Male,Bogor,Sejarah
+101,108,10,Male,Tanggerang,Bahasa Indonesia
+21,101,12,Female,Bogor,Biologi
+145,116,10,Male,Bogor,Bahasa Inggris
+81,96,11,Male,Bogor,Biologi
+117,80,12,Male,Jakarta,Fisika
+190,76,11,Male,Bogor,Matematika
+161,115,12,Female,Jakarta,Bahasa Inggris
+112,141,12,Female,Bogor,Sejarah
+25,93,10,Female,Tanggerang,Kimia
+52,99,11,Female,Bekasi,Biologi
+191,101,12,Female,Bogor,Biologi
+65,71,10,Female,Bogor,Matematika
+38,150,11,Male,Jakarta,Ekonomi
+159,77,11,Female,Depok,Matematika
+88,134,10,Male,Bekasi,Sosiologi
+165,111,11,Female,Bogor,Bahasa Inggris
+147,77,11,Female,Depok,Matematika
+148,97,12,Female,Depok,Biologi
+140,127,11,Female,Depok,Sosiologi
+20,116,12,Male,Bogor,Bahasa Inggris
+99,133,10,Female,Tanggerang,Sosiologi
+108,116,12,Male,Bogor,Bahasa Inggris
+16,142,10,Male,Depok,Sejarah
+171,127,12,Female,Depok,Sosiologi
+8,114,10,Male,Bekasi,Bahasa Inggris
+125,134,11,Male,Bekasi,Sosiologi
+77,88,11,Male,Tanggerang,Kimia
+181,99,12,Female,Bekasi,Biologi
+135,103,11,Female,Tanggerang,Bahasa Indonesia
+157,132,10,Male,Depok,Sosiologi
+130,86,10,Male,Bogor,Fisika
+88,94,12,Male,Bekasi,Kimia
+74,121,10,Female,Bogor,Geografi
+54,75,10,Female,Jakarta,Matematika
+148,134,12,Male,Bekasi,Sosiologi
+39,109,12,Female,Bekasi,Bahasa Indonesia
+192,75,10,Female,Jakarta,Matematika
+128,72,12,Male,Depok,Matematika
+134,137,10,Female,Depok,Sejarah
+191,99,10,Female,Bekasi,Biologi
+20,104,10,Male,Bekasi,Bahasa Indonesia
+169,89,10,Female,Bekasi,Kimia
+177,103,12,Female,Tanggerang,Bahasa Indonesia
+178,135,11,Female,Jakarta,Sejarah
+56,133,10,Female,Tanggerang,Sosiologi
+127,85,11,Female,Jakarta,Fisika
+165,147,12,Female,Depok,Ekonomi
+113,127,12,Female,Depok,Sosiologi
+22,112,11,Male,Depok,Bahasa Inggris
+7,87,12,Female,Depok,Kimia
+35,136,12,Male,Bogor,Sejarah
+199,138,11,Male,Tanggerang,Sejarah
+143,128,12,Male,Tanggerang,Sosiologi
+194,102,11,Male,Depok,Biologi
+60,148,11,Male,Tanggerang,Ekonomi
+112,127,11,Female,Depok,Sosiologi
+70,134,10,Male,Bekasi,Sosiologi
+58,80,12,Male,Jakarta,Fisika
+8,114,10,Male,Bekasi,Bahasa Inggris
+111,90,11,Male,Jakarta,Kimia
+1,108,10,Male,Tanggerang,Bahasa Indonesia
+44,119,11,Female,Bekasi,Geografi
+154,110,11,Male,Jakarta,Bahasa Indonesia
+26,74,12,Male,Bekasi,Matematika
+21,71,12,Female,Bogor,Matematika
+176,101,12,Female,Bogor,Biologi
+89,87,11,Female,Depok,Kimia
+171,84,12,Male,Bekasi,Fisika
+156,130,10,Male,Jakarta,Sosiologi
+54,95,11,Female,Jakarta,Biologi
+159,101,10,Female,Bogor,Biologi
+73,147,12,Female,Depok,Ekonomi
+51,137,11,Female,Depok,Sejarah
+24,80,12,Male,Jakarta,Fisika
+108,71,11,Female,Bogor,Matematika
+113,115,10,Female,Jakarta,Bahasa Inggris
+25,117,11,Female,Depok,Bahasa Inggris
+157,145,11,Female,Jakarta,Ekonomi
+115,136,10,Male,Bogor,Sejarah
+179,137,10,Female,Depok,Sejarah
+137,146,11,Male,Bogor,Ekonomi
+38,108,10,Male,Tanggerang,Bahasa Indonesia
+25,150,10,Male,Jakarta,Ekonomi
+86,76,11,Male,Bogor,Matematika
+112,148,10,Male,Tanggerang,Ekonomi
+2,93,10,Female,Tanggerang,Kimia
+162,105,11,Female,Jakarta,Bahasa Indonesia
+78,128,11,Male,Tanggerang,Sosiologi
+184,112,12,Male,Depok,Bahasa Inggris
+174,91,12,Female,Bogor,Kimia
+138,91,11,Female,Bogor,Kimia
+11,95,10,Female,Jakarta,Biologi
+113,80,12,Male,Jakarta,Fisika
+162,147,12,Female,Depok,Ekonomi
+68,126,11,Male,Bogor,Geografi
+83,119,11,Female,Bekasi,Geografi
+55,128,12,Male,Tanggerang,Sosiologi
+149,104,11,Male,Bekasi,Bahasa Indonesia
+78,86,11,Male,Bogor,Fisika
+184,105,10,Female,Jakarta,Bahasa Indonesia
+135,124,12,Male,Bekasi,Geografi
+95,76,12,Male,Bogor,Matematika
+101,73,10,Female,Tanggerang,Matematika
+91,120,10,Male,Jakarta,Geografi
+9,114,12,Male,Bekasi,Bahasa Inggris
+36,100,10,Male,Jakarta,Biologi
+52,114,10,Male,Bekasi,Bahasa Inggris
+8,139,12,Female,Bekasi,Sejarah
+44,147,11,Female,Depok,Ekonomi
+172,118,10,Male,Tanggerang,Bahasa Inggris
+39,148,11,Male,Tanggerang,Ekonomi
+119,98,12,Male,Tanggerang,Biologi
+82,80,11,Male,Jakarta,Fisika
+160,121,11,Female,Bogor,Geografi
+113,139,10,Female,Bekasi,Sejarah
+161,128,11,Male,Tanggerang,Sosiologi
+6,124,10,Male,Bekasi,Geografi
+126,102,11,Male,Depok,Biologi
+140,115,10,Female,Jakarta,Bahasa Inggris
+17,74,11,Male,Bekasi,Matematika
+144,140,12,Male,Jakarta,Sejarah
+83,111,11,Female,Bogor,Bahasa Inggris
+42,84,10,Male,Bekasi,Fisika
+159,101,11,Female,Bogor,Biologi
+119,116,11,Male,Bogor,Bahasa Inggris
+46,107,10,Female,Depok,Bahasa Indonesia
+62,149,11,Female,Bekasi,Ekonomi
+198,97,12,Female,Depok,Biologi
+101,97,10,Female,Depok,Biologi
+174,117,11,Female,Depok,Bahasa Inggris
+198,86,10,Male,Bogor,Fisika
+93,103,11,Female,Tanggerang,Bahasa Indonesia
+177,103,10,Female,Tanggerang,Bahasa Indonesia
+127,77,12,Female,Depok,Matematika
+182,122,10,Male,Depok,Geografi
+164,112,11,Male,Depok,Bahasa Inggris
+4,89,12,Female,Bekasi,Kimia
+93,74,10,Male,Bekasi,Matematika
+190,112,12,Male,Depok,Bahasa Inggris
+126,90,11,Male,Jakarta,Kimia
+113,122,11,Male,Depok,Geografi
+49,129,12,Female,Bekasi,Sosiologi
+87,105,11,Female,Jakarta,Bahasa Indonesia
+88,88,10,Male,Tanggerang,Kimia
+111,133,12,Female,Tanggerang,Sosiologi
+85,136,10,Male,Bogor,Sejarah
+16,103,11,Female,Tanggerang,Bahasa Indonesia
+64,91,12,Female,Bogor,Kimia
+72,106,10,Male,Bogor,Bahasa Indonesia
+119,127,12,Female,Depok,Sosiologi
+50,104,10,Male,Bekasi,Bahasa Indonesia
+187,101,10,Female,Bogor,Biologi
+6,99,12,Female,Bekasi,Biologi
+131,80,11,Male,Jakarta,Fisika
+177,136,12,Male,Bogor,Sejarah
+157,91,11,Female,Bogor,Kimia
+83,125,12,Female,Jakarta,Geografi
+46,78,11,Male,Tanggerang,Matematika
+68,90,10,Male,Jakarta,Kimia
+6,123,10,Female,Tanggerang,Geografi
+177,96,10,Male,Bogor,Biologi
+5,89,12,Female,Bekasi,Kimia
+21,85,11,Female,Jakarta,Fisika
+16,77,10,Female,Depok,Matematika
+107,86,12,Male,Bogor,Fisika
+72,98,12,Male,Tanggerang,Biologi
+27,104,10,Male,Bekasi,Bahasa Indonesia
+122,141,12,Female,Bogor,Sejarah
+122,144,12,Male,Bekasi,Ekonomi
+55,147,11,Female,Depok,Ekonomi
+174,134,11,Male,Bekasi,Sosiologi
+57,112,12,Male,Depok,Bahasa Inggris
+103,140,11,Male,Jakarta,Sejarah
+128,90,11,Male,Jakarta,Kimia
+173,117,11,Female,Depok,Bahasa Inggris
+33,98,12,Male,Tanggerang,Biologi
+109,78,12,Male,Tanggerang,Matematika
+174,113,10,Female,Tanggerang,Bahasa Inggris
+144,119,10,Female,Bekasi,Geografi
+168,109,11,Female,Bekasi,Bahasa Indonesia
+135,88,11,Male,Tanggerang,Kimia
+95,115,12,Female,Jakarta,Bahasa Inggris
+104,125,10,Female,Jakarta,Geografi
+200,87,10,Female,Depok,Kimia
+86,77,12,Female,Depok,Matematika
+159,114,11,Male,Bekasi,Bahasa Inggris
+180,119,10,Female,Bekasi,Geografi
+45,149,11,Female,Bekasi,Ekonomi
+196,92,12,Male,Depok,Kimia
+112,150,10,Male,Jakarta,Ekonomi
+10,124,12,Male,Bekasi,Geografi
+170,105,12,Female,Jakarta,Bahasa Indonesia
+157,95,11,Female,Jakarta,Biologi
+122,149,12,Female,Bekasi,Ekonomi
+198,113,11,Female,Tanggerang,Bahasa Inggris
+172,144,12,Male,Bekasi,Ekonomi
+73,79,11,Female,Bekasi,Fisika
+124,127,11,Female,Depok,Sosiologi
+163,108,10,Male,Tanggerang,Bahasa Indonesia
+71,149,11,Female,Bekasi,Ekonomi
+89,128,12,Male,Tanggerang,Sosiologi
+9,80,10,Male,Jakarta,Fisika
+152,99,11,Female,Bekasi,Biologi
+76,110,12,Male,Jakarta,Bahasa Indonesia
+136,101,11,Female,Bogor,Biologi
+10,79,12,Female,Bekasi,Fisika
+66,98,11,Male,Tanggerang,Biologi
+42,145,12,Female,Jakarta,Ekonomi
+105,119,10,Female,Bekasi,Geografi
+127,146,11,Male,Bogor,Ekonomi
+147,135,12,Female,Jakarta,Sejarah
+62,136,10,Male,Bogor,Sejarah
+14,99,11,Female,Bekasi,Biologi
+179,105,12,Female,Jakarta,Bahasa Indonesia
+164,74,12,Male,Bekasi,Matematika
+30,125,10,Female,Jakarta,Geografi
+130,95,12,Female,Jakarta,Biologi
+106,100,11,Male,Jakarta,Biologi
+117,143,11,Female,Tanggerang,Ekonomi
+30,121,11,Female,Bogor,Geografi
+118,149,12,Female,Bekasi,Ekonomi
+119,144,12,Male,Bekasi,Ekonomi
+32,144,11,Male,Bekasi,Ekonomi
+20,118,12,Male,Tanggerang,Bahasa Inggris
+80,105,11,Female,Jakarta,Bahasa Indonesia
+65,123,11,Female,Tanggerang,Geografi
+199,147,10,Female,Depok,Ekonomi
+128,99,11,Female,Bekasi,Biologi
+35,103,10,Female,Tanggerang,Bahasa Indonesia
+111,129,12,Female,Bekasi,Sosiologi
+136,132,11,Male,Depok,Sosiologi
+117,145,11,Female,Jakarta,Ekonomi
+193,110,11,Male,Jakarta,Bahasa Indonesia
+83,76,12,Male,Bogor,Matematika
+146,93,10,Female,Tanggerang,Kimia
+142,136,11,Male,Bogor,Sejarah
+137,124,10,Male,Bekasi,Geografi
+171,147,12,Female,Depok,Ekonomi
+26,98,10,Male,Tanggerang,Biologi
+115,103,10,Female,Tanggerang,Bahasa Indonesia
+154,123,11,Female,Tanggerang,Geografi
+127,119,12,Female,Bekasi,Geografi
+54,72,10,Male,Depok,Matematika
+52,89,11,Female,Bekasi,Kimia
+24,71,10,Female,Bogor,Matematika
+33,110,11,Male,Jakarta,Bahasa Indonesia
+80,75,11,Female,Jakarta,Matematika
+63,79,10,Female,Bekasi,Fisika
+182,83,12,Female,Tanggerang,Fisika
+142,131,11,Female,Bogor,Sosiologi
+31,112,10,Male,Depok,Bahasa Inggris
+22,135,10,Female,Jakarta,Sejarah
+78,136,12,Male,Bogor,Sejarah
+65,96,12,Male,Bogor,Biologi
+108,79,11,Female,Bekasi,Fisika
+113,98,11,Male,Tanggerang,Biologi
+47,94,12,Male,Bekasi,Kimia
+122,137,12,Female,Depok,Sejarah
+18,75,11,Female,Jakarta,Matematika
+183,72,11,Male,Depok,Matematika
+21,134,10,Male,Bekasi,Sosiologi
+33,89,12,Female,Bekasi,Kimia
+47,127,12,Female,Depok,Sosiologi
+13,138,11,Male,Tanggerang,Sejarah
+5,94,12,Male,Bekasi,Kimia
+22,132,10,Male,Depok,Sosiologi
+20,89,10,Female,Bekasi,Kimia
+15,114,11,Male,Bekasi,Bahasa Inggris
+62,144,12,Male,Bekasi,Ekonomi
+108,108,11,Male,Tanggerang,Bahasa Indonesia
+168,127,12,Female,Depok,Sosiologi
+160,94,11,Male,Bekasi,Kimia
+185,71,12,Female,Bogor,Matematika
+180,128,12,Male,Tanggerang,Sosiologi
+63,95,10,Female,Jakarta,Biologi
+26,106,10,Male,Bogor,Bahasa Indonesia
+70,91,10,Female,Bogor,Kimia
+5,77,11,Female,Depok,Matematika
+135,114,10,Male,Bekasi,Bahasa Inggris
+180,129,12,Female,Bekasi,Sosiologi
+126,102,12,Male,Depok,Biologi
+71,105,10,Female,Jakarta,Bahasa Indonesia
+119,141,10,Female,Bogor,Sejarah
+186,75,11,Female,Jakarta,Matematika
+150,147,11,Female,Depok,Ekonomi
+181,138,10,Male,Tanggerang,Sejarah
+196,77,12,Female,Depok,Matematika
+139,89,12,Female,Bekasi,Kimia
+139,120,11,Male,Jakarta,Geografi
+13,89,10,Female,Bekasi,Kimia
+148,108,11,Male,Tanggerang,Bahasa Indonesia
+123,102,12,Male,Depok,Biologi
+9,91,10,Female,Bogor,Kimia
+193,74,10,Male,Bekasi,Matematika
+155,111,11,Female,Bogor,Bahasa Inggris
+150,145,11,Female,Jakarta,Ekonomi
+50,145,11,Female,Jakarta,Ekonomi
+121,87,12,Female,Depok,Kimia
+115,76,12,Male,Bogor,Matematika
+111,117,12,Female,Depok,Bahasa Inggris
+20,135,10,Female,Jakarta,Sejarah
+154,110,10,Male,Jakarta,Bahasa Indonesia
+120,121,10,Female,Bogor,Geografi
+123,100,11,Male,Jakarta,Biologi
+23,107,11,Female,Depok,Bahasa Indonesia
+63,109,11,Female,Bekasi,Bahasa Indonesia
+157,141,12,Female,Bogor,Sejarah
+33,138,12,Male,Tanggerang,Sejarah
+184,144,12,Male,Bekasi,Ekonomi
+144,123,12,Female,Tanggerang,Geografi
+193,116,10,Male,Bogor,Bahasa Inggris
+68,124,11,Male,Bekasi,Geografi
+30,127,10,Female,Depok,Sosiologi
+79,139,10,Female,Bekasi,Sejarah
+92,97,10,Female,Depok,Biologi
+120,99,10,Female,Bekasi,Biologi
+136,101,11,Female,Bogor,Biologi
+18,122,10,Male,Depok,Geografi
+86,136,10,Male,Bogor,Sejarah
+75,87,11,Female,Depok,Kimia
+111,78,12,Male,Tanggerang,Matematika
+121,99,12,Female,Bekasi,Biologi
+106,128,10,Male,Tanggerang,Sosiologi
+11,83,10,Female,Tanggerang,Fisika
+157,119,12,Female,Bekasi,Geografi
+66,119,10,Female,Bekasi,Geografi
+110,108,11,Male,Tanggerang,Bahasa Indonesia
+115,99,12,Female,Bekasi,Biologi
+82,90,10,Male,Jakarta,Kimia
+38,82,12,Male,Depok,Fisika
+24,148,12,Male,Tanggerang,Ekonomi
+181,147,10,Female,Depok,Ekonomi
+59,88,11,Male,Tanggerang,Kimia
+43,137,10,Female,Depok,Sejarah
+57,116,12,Male,Bogor,Bahasa Inggris
+89,141,12,Female,Bogor,Sejarah
+175,110,12,Male,Jakarta,Bahasa Indonesia
+82,105,12,Female,Jakarta,Bahasa Indonesia
+185,93,10,Female,Tanggerang,Kimia
+193,135,11,Female,Jakarta,Sejarah
+61,137,11,Female,Depok,Sejarah
+5,115,12,Female,Jakarta,Bahasa Inggris
+77,133,11,Female,Tanggerang,Sosiologi
+164,96,11,Male,Bogor,Biologi
+66,121,12,Female,Bogor,Geografi
+149,119,10,Female,Bekasi,Geografi
+23,150,11,Male,Jakarta,Ekonomi
+147,118,11,Male,Tanggerang,Bahasa Inggris
+76,138,10,Male,Tanggerang,Sejarah
+160,147,11,Female,Depok,Ekonomi
+115,92,10,Male,Depok,Kimia
+66,123,12,Female,Tanggerang,Geografi
+64,142,11,Male,Depok,Sejarah
+98,121,11,Female,Bogor,Geografi
+90,91,11,Female,Bogor,Kimia
+73,103,12,Female,Tanggerang,Bahasa Indonesia
+108,135,12,Female,Jakarta,Sejarah
+174,124,10,Male,Bekasi,Geografi
+153,79,10,Female,Bekasi,Fisika
+34,78,11,Male,Tanggerang,Matematika
+135,75,10,Female,Jakarta,Matematika
+57,115,11,Female,Jakarta,Bahasa Inggris
+83,99,12,Female,Bekasi,Biologi
+199,113,11,Female,Tanggerang,Bahasa Inggris
+37,98,12,Male,Tanggerang,Biologi
+68,91,12,Female,Bogor,Kimia
+126,137,11,Female,Depok,Sejarah
+105,115,11,Female,Jakarta,Bahasa Inggris
+200,79,11,Female,Bekasi,Fisika
+193,92,10,Male,Depok,Kimia
+109,81,11,Female,Bogor,Fisika
+33,123,12,Female,Tanggerang,Geografi
+69,122,10,Male,Depok,Geografi
+59,89,12,Female,Bekasi,Kimia
+80,88,12,Male,Tanggerang,Kimia
+111,126,11,Male,Bogor,Geografi
+28,129,12,Female,Bekasi,Sosiologi
+143,111,12,Female,Bogor,Bahasa Inggris
+86,84,11,Male,Bekasi,Fisika
+118,101,10,Female,Bogor,Biologi
+59,133,11,Female,Tanggerang,Sosiologi
+12,114,11,Male,Bekasi,Bahasa Inggris
+95,90,11,Male,Jakarta,Kimia
+128,83,11,Female,Tanggerang,Fisika
+74,91,10,Female,Bogor,Kimia
+141,75,10,Female,Jakarta,Matematika
+22,131,11,Female,Bogor,Sosiologi
+157,90,12,Male,Jakarta,Kimia
+112,134,12,Male,Bekasi,Sosiologi
+179,112,12,Male,Depok,Bahasa Inggris
+16,114,12,Male,Bekasi,Bahasa Inggris
+118,113,11,Female,Tanggerang,Bahasa Inggris
+68,77,11,Female,Depok,Matematika
+168,87,10,Female,Depok,Kimia
+180,88,10,Male,Tanggerang,Kimia
+185,79,10,Female,Bekasi,Fisika
+130,80,12,Male,Jakarta,Fisika
+58,133,12,Female,Tanggerang,Sosiologi
+191,81,10,Female,Bogor,Fisika
+161,129,12,Female,Bekasi,Sosiologi
+173,107,10,Female,Depok,Bahasa Indonesia
+170,81,12,Female,Bogor,Fisika
+67,114,10,Male,Bekasi,Bahasa Inggris
+50,81,11,Female,Bogor,Fisika
+131,92,12,Male,Depok,Kimia
+86,131,10,Female,Bogor,Sosiologi
+153,131,10,Female,Bogor,Sosiologi
+200,73,12,Female,Tanggerang,Matematika
+53,101,11,Female,Bogor,Biologi
+25,104,10,Male,Bekasi,Bahasa Indonesia
+133,148,12,Male,Tanggerang,Ekonomi
+98,109,10,Female,Bekasi,Bahasa Indonesia
+88,111,12,Female,Bogor,Bahasa Inggris
+58,82,12,Male,Depok,Fisika
+140,75,10,Female,Jakarta,Matematika
+55,80,10,Male,Jakarta,Fisika
+64,90,10,Male,Jakarta,Kimia
+70,89,11,Female,Bekasi,Kimia
+199,86,10,Male,Bogor,Fisika
+50,141,11,Female,Bogor,Sejarah
+91,125,12,Female,Jakarta,Geografi
+89,75,12,Female,Jakarta,Matematika
+91,129,11,Female,Bekasi,Sosiologi
+76,112,10,Male,Depok,Bahasa Inggris
+138,85,11,Female,Jakarta,Fisika
+10,100,12,Male,Jakarta,Biologi
+160,72,12,Male,Depok,Matematika
+66,108,11,Male,Tanggerang,Bahasa Indonesia
+41,106,12,Male,Bogor,Bahasa Indonesia
+61,135,11,Female,Jakarta,Sejarah
+97,126,12,Male,Bogor,Geografi
+79,137,11,Female,Depok,Sejarah
+127,91,11,Female,Bogor,Kimia
+83,97,10,Female,Depok,Biologi
+145,107,12,Female,Depok,Bahasa Indonesia
+13,86,11,Male,Bogor,Fisika
+10,115,11,Female,Jakarta,Bahasa Inggris
+108,102,10,Male,Depok,Biologi
+176,133,11,Female,Tanggerang,Sosiologi
+158,76,11,Male,Bogor,Matematika
+172,108,11,Male,Tanggerang,Bahasa Indonesia
+50,122,11,Male,Depok,Geografi
+145,132,11,Male,Depok,Sosiologi
+41,134,10,Male,Bekasi,Sosiologi
+8,98,10,Male,Tanggerang,Biologi
+77,82,11,Male,Depok,Fisika
+147,105,12,Female,Jakarta,Bahasa Indonesia
+197,102,12,Male,Depok,Biologi
+32,80,11,Male,Jakarta,Fisika
+143,132,11,Male,Depok,Sosiologi
+115,113,11,Female,Tanggerang,Bahasa Inggris
+43,106,10,Male,Bogor,Bahasa Indonesia
+129,145,12,Female,Jakarta,Ekonomi
+81,99,12,Female,Bekasi,Biologi
+146,122,11,Male,Depok,Geografi
+161,132,12,Male,Depok,Sosiologi
+121,76,10,Male,Bogor,Matematika
+88,103,10,Female,Tanggerang,Bahasa Indonesia
+78,100,11,Male,Jakarta,Biologi
+130,126,11,Male,Bogor,Geografi
+152,127,10,Female,Depok,Sosiologi
+138,92,10,Male,Depok,Kimia
+117,135,11,Female,Jakarta,Sejarah
+197,107,10,Female,Depok,Bahasa Indonesia
+38,79,12,Female,Bekasi,Fisika
+92,121,11,Female,Bogor,Geografi
+81,77,12,Female,Depok,Matematika
+141,125,12,Female,Jakarta,Geografi
+9,140,11,Male,Jakarta,Sejarah
+19,127,10,Female,Depok,Sosiologi
+92,84,11,Male,Bekasi,Fisika
+101,143,11,Female,Tanggerang,Ekonomi
+2,112,10,Male,Depok,Bahasa Inggris
+189,146,10,Male,Bogor,Ekonomi
+45,88,10,Male,Tanggerang,Kimia
+33,124,10,Male,Bekasi,Geografi
+157,74,12,Male,Bekasi,Matematika
+65,148,10,Male,Tanggerang,Ekonomi
+120,96,10,Male,Bogor,Biologi
+133,112,12,Male,Depok,Bahasa Inggris
+179,72,10,Male,Depok,Matematika
+176,89,11,Female,Bekasi,Kimia
+4,89,11,Female,Bekasi,Kimia
+51,149,12,Female,Bekasi,Ekonomi
+67,77,11,Female,Depok,Matematika
+166,144,11,Male,Bekasi,Ekonomi
+178,132,11,Male,Depok,Sosiologi
+5,87,11,Female,Depok,Kimia
+134,132,10,Male,Depok,Sosiologi
+153,102,11,Male,Depok,Biologi
+4,127,10,Female,Depok,Sosiologi
+38,100,12,Male,Jakarta,Biologi
+143,138,10,Male,Tanggerang,Sejarah
+5,137,11,Female,Depok,Sejarah
+21,126,10,Male,Bogor,Geografi
+175,133,12,Female,Tanggerang,Sosiologi
+28,149,10,Female,Bekasi,Ekonomi
+99,90,11,Male,Jakarta,Kimia
+131,143,10,Female,Tanggerang,Ekonomi
+44,109,11,Female,Bekasi,Bahasa Indonesia
+22,123,11,Female,Tanggerang,Geografi
+143,148,12,Male,Tanggerang,Ekonomi
+174,118,12,Male,Tanggerang,Bahasa Inggris
+26,107,10,Female,Depok,Bahasa Indonesia
+73,132,11,Male,Depok,Sosiologi
+47,100,12,Male,Jakarta,Biologi
+93,121,12,Female,Bogor,Geografi
+127,130,11,Male,Jakarta,Sosiologi
+88,143,10,Female,Tanggerang,Ekonomi
+168,129,10,Female,Bekasi,Sosiologi
+96,116,10,Male,Bogor,Bahasa Inggris
+143,101,11,Female,Bogor,Biologi
+123,145,10,Female,Jakarta,Ekonomi
+170,84,11,Male,Bekasi,Fisika
+164,95,11,Female,Jakarta,Biologi
+86,139,12,Female,Bekasi,Sejarah
+93,102,10,Male,Depok,Biologi
+97,116,12,Male,Bogor,Bahasa Inggris
+185,101,11,Female,Bogor,Biologi
+125,98,11,Male,Tanggerang,Biologi
+140,77,10,Female,Depok,Matematika
+185,111,12,Female,Bogor,Bahasa Inggris
+19,96,11,Male,Bogor,Biologi
+65,78,11,Male,Tanggerang,Matematika
+38,148,10,Male,Tanggerang,Ekonomi
+36,99,11,Female,Bekasi,Biologi
+197,71,12,Female,Bogor,Matematika
+10,99,12,Female,Bekasi,Biologi
+165,115,11,Female,Jakarta,Bahasa Inggris
+119,132,12,Male,Depok,Sosiologi
+45,127,11,Female,Depok,Sosiologi
+16,91,10,Female,Bogor,Kimia
+39,112,12,Male,Depok,Bahasa Inggris

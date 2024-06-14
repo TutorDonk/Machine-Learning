@@ -1,0 +1,1001 @@
+id_user,id_tutor,jenjang_tutor,gender_tutor,daerah_tutor,pelajaran
+298,48,8,Male,Tanggerang,IPA
+252,54,9,Male,Bekasi,IPS
+299,65,8,Female,Jakarta,Bahasa Indonesia
+213,65,8,Female,Jakarta,Bahasa Indonesia
+268,38,8,Male,Tanggerang,Matematika
+281,54,7,Male,Bekasi,IPS
+281,55,9,Female,Jakarta,IPS
+234,59,8,Female,Bekasi,Bahasa Inggris
+257,55,8,Female,Jakarta,IPS
+265,50,8,Male,Jakarta,IPS
+229,58,7,Male,Tanggerang,Bahasa Inggris
+281,61,7,Female,Bogor,Bahasa Inggris
+215,48,8,Male,Tanggerang,IPA
+218,38,8,Male,Tanggerang,Matematika
+210,36,7,Male,Bogor,Matematika
+286,51,7,Female,Bogor,IPS
+272,44,8,Male,Bekasi,IPA
+296,65,8,Female,Jakarta,Bahasa Indonesia
+280,56,8,Male,Bogor,IPS
+275,48,7,Male,Tanggerang,IPA
+260,53,8,Female,Tanggerang,IPS
+228,58,8,Male,Tanggerang,Bahasa Inggris
+270,70,7,Male,Jakarta,Bahasa Indonesia
+281,67,9,Female,Depok,Bahasa Indonesia
+216,56,7,Male,Bogor,IPS
+229,70,8,Male,Jakarta,Bahasa Indonesia
+205,45,8,Female,Jakarta,IPA
+264,55,9,Female,Jakarta,IPS
+266,69,7,Female,Bekasi,Bahasa Indonesia
+294,46,8,Male,Bogor,IPA
+205,54,7,Male,Bekasi,IPS
+280,41,9,Female,Bogor,Matematika
+203,61,8,Female,Bogor,Bahasa Inggris
+293,65,9,Female,Jakarta,Bahasa Indonesia
+226,46,7,Male,Bogor,IPA
+243,55,7,Female,Jakarta,IPS
+238,57,7,Female,Depok,Bahasa Inggris
+237,68,9,Male,Tanggerang,Bahasa Indonesia
+274,67,8,Female,Depok,Bahasa Indonesia
+251,53,9,Female,Tanggerang,IPS
+225,67,7,Female,Depok,Bahasa Indonesia
+282,52,9,Male,Depok,IPS
+252,43,8,Female,Tanggerang,IPA
+286,57,9,Female,Depok,Bahasa Inggris
+212,52,9,Male,Depok,IPS
+272,70,8,Male,Jakarta,Bahasa Indonesia
+267,60,7,Male,Jakarta,Bahasa Inggris
+221,46,8,Male,Bogor,IPA
+205,52,8,Male,Depok,IPS
+271,49,8,Female,Bekasi,IPA
+239,46,9,Male,Bogor,IPA
+252,61,7,Female,Bogor,Bahasa Inggris
+252,44,7,Male,Bekasi,IPA
+201,39,8,Female,Bekasi,Matematika
+290,58,7,Male,Tanggerang,Bahasa Inggris
+285,43,9,Female,Tanggerang,IPA
+292,50,8,Male,Jakarta,IPS
+221,66,8,Male,Bogor,Bahasa Indonesia
+248,57,7,Female,Depok,Bahasa Inggris
+204,38,9,Male,Tanggerang,Matematika
+294,70,8,Male,Jakarta,Bahasa Indonesia
+231,62,7,Male,Depok,Bahasa Inggris
+295,59,9,Female,Bekasi,Bahasa Inggris
+243,52,7,Male,Depok,IPS
+219,47,8,Female,Depok,IPA
+261,65,7,Female,Jakarta,Bahasa Indonesia
+211,66,8,Male,Bogor,Bahasa Indonesia
+270,57,8,Female,Depok,Bahasa Inggris
+277,45,9,Female,Jakarta,IPA
+281,66,7,Male,Bogor,Bahasa Indonesia
+230,52,7,Male,Depok,IPS
+211,52,9,Male,Depok,IPS
+224,69,8,Female,Bekasi,Bahasa Indonesia
+279,60,9,Male,Jakarta,Bahasa Inggris
+251,44,7,Male,Bekasi,IPA
+245,58,8,Male,Tanggerang,Bahasa Inggris
+215,61,8,Female,Bogor,Bahasa Inggris
+203,61,8,Female,Bogor,Bahasa Inggris
+282,61,8,Female,Bogor,Bahasa Inggris
+274,67,9,Female,Depok,Bahasa Indonesia
+214,54,8,Male,Bekasi,IPS
+245,40,7,Male,Jakarta,Matematika
+201,61,8,Female,Bogor,Bahasa Inggris
+294,62,7,Male,Depok,Bahasa Inggris
+271,44,9,Male,Bekasi,IPA
+268,62,8,Male,Depok,Bahasa Inggris
+240,58,8,Male,Tanggerang,Bahasa Inggris
+271,43,8,Female,Tanggerang,IPA
+251,50,9,Male,Jakarta,IPS
+283,51,8,Female,Bogor,IPS
+217,64,8,Male,Bekasi,Bahasa Indonesia
+238,38,8,Male,Tanggerang,Matematika
+256,48,7,Male,Tanggerang,IPA
+281,58,7,Male,Tanggerang,Bahasa Inggris
+252,62,8,Male,Depok,Bahasa Inggris
+203,61,7,Female,Bogor,Bahasa Inggris
+267,37,7,Female,Depok,Matematika
+268,50,7,Male,Jakarta,IPS
+215,42,8,Male,Depok,Matematika
+292,69,8,Female,Bekasi,Bahasa Indonesia
+211,45,7,Female,Jakarta,IPA
+246,69,8,Female,Bekasi,Bahasa Indonesia
+261,70,9,Male,Jakarta,Bahasa Indonesia
+280,63,7,Female,Tanggerang,Bahasa Inggris
+255,55,7,Female,Jakarta,IPS
+269,37,8,Female,Depok,Matematika
+209,51,9,Female,Bogor,IPS
+277,36,8,Male,Bogor,Matematika
+292,70,7,Male,Jakarta,Bahasa Indonesia
+274,52,8,Male,Depok,IPS
+233,60,7,Male,Jakarta,Bahasa Inggris
+265,44,8,Male,Bekasi,IPA
+219,59,8,Female,Bekasi,Bahasa Inggris
+239,52,8,Male,Depok,IPS
+210,39,9,Female,Bekasi,Matematika
+247,40,7,Male,Jakarta,Matematika
+210,51,8,Female,Bogor,IPS
+224,54,7,Male,Bekasi,IPS
+261,45,8,Female,Jakarta,IPA
+282,41,8,Female,Bogor,Matematika
+208,44,8,Male,Bekasi,IPA
+234,68,7,Male,Tanggerang,Bahasa Indonesia
+270,65,9,Female,Jakarta,Bahasa Indonesia
+273,47,7,Female,Depok,IPA
+207,63,9,Female,Tanggerang,Bahasa Inggris
+290,49,8,Female,Bekasi,IPA
+252,37,7,Female,Depok,Matematika
+238,48,9,Male,Tanggerang,IPA
+231,66,7,Male,Bogor,Bahasa Indonesia
+295,61,7,Female,Bogor,Bahasa Inggris
+201,36,7,Male,Bogor,Matematika
+211,47,7,Female,Depok,IPA
+289,51,7,Female,Bogor,IPS
+281,39,8,Female,Bekasi,Matematika
+282,55,8,Female,Jakarta,IPS
+201,46,9,Male,Bogor,IPA
+239,58,9,Male,Tanggerang,Bahasa Inggris
+288,49,8,Female,Bekasi,IPA
+205,38,8,Male,Tanggerang,Matematika
+212,36,8,Male,Bogor,Matematika
+290,40,9,Male,Jakarta,Matematika
+211,40,9,Male,Jakarta,Matematika
+235,47,8,Female,Depok,IPA
+269,61,9,Female,Bogor,Bahasa Inggris
+265,48,7,Male,Tanggerang,IPA
+215,45,8,Female,Jakarta,IPA
+292,45,7,Female,Jakarta,IPA
+256,61,8,Female,Bogor,Bahasa Inggris
+217,54,8,Male,Bekasi,IPS
+216,40,7,Male,Jakarta,Matematika
+241,40,9,Male,Jakarta,Matematika
+234,53,9,Female,Tanggerang,IPS
+205,50,7,Male,Jakarta,IPS
+262,56,8,Male,Bogor,IPS
+225,41,9,Female,Bogor,Matematika
+232,51,9,Female,Bogor,IPS
+261,38,8,Male,Tanggerang,Matematika
+256,64,8,Male,Bekasi,Bahasa Indonesia
+267,66,9,Male,Bogor,Bahasa Indonesia
+272,45,9,Female,Jakarta,IPA
+212,50,9,Male,Jakarta,IPS
+221,39,7,Female,Bekasi,Matematika
+290,69,8,Female,Bekasi,Bahasa Indonesia
+288,70,8,Male,Jakarta,Bahasa Indonesia
+271,66,8,Male,Bogor,Bahasa Indonesia
+246,56,7,Male,Bogor,IPS
+271,39,8,Female,Bekasi,Matematika
+289,44,9,Male,Bekasi,IPA
+294,51,7,Female,Bogor,IPS
+299,45,8,Female,Jakarta,IPA
+220,65,7,Female,Jakarta,Bahasa Indonesia
+282,52,8,Male,Depok,IPS
+230,45,7,Female,Jakarta,IPA
+286,56,9,Male,Bogor,IPS
+201,67,7,Female,Depok,Bahasa Indonesia
+235,68,8,Male,Tanggerang,Bahasa Indonesia
+298,56,8,Male,Bogor,IPS
+231,38,8,Male,Tanggerang,Matematika
+229,40,8,Male,Jakarta,Matematika
+256,57,9,Female,Depok,Bahasa Inggris
+253,69,7,Female,Bekasi,Bahasa Indonesia
+269,66,9,Male,Bogor,Bahasa Indonesia
+269,69,9,Female,Bekasi,Bahasa Indonesia
+274,41,8,Female,Bogor,Matematika
+212,69,7,Female,Bekasi,Bahasa Indonesia
+254,46,9,Male,Bogor,IPA
+246,41,9,Female,Bogor,Matematika
+207,51,8,Female,Bogor,IPS
+284,69,9,Female,Bekasi,Bahasa Indonesia
+236,46,9,Male,Bogor,IPA
+265,50,7,Male,Jakarta,IPS
+257,50,8,Male,Jakarta,IPS
+245,67,7,Female,Depok,Bahasa Indonesia
+287,59,7,Female,Bekasi,Bahasa Inggris
+288,65,7,Female,Jakarta,Bahasa Indonesia
+211,37,9,Female,Depok,Matematika
+231,51,7,Female,Bogor,IPS
+281,70,9,Male,Jakarta,Bahasa Indonesia
+292,43,9,Female,Tanggerang,IPA
+265,66,9,Male,Bogor,Bahasa Indonesia
+253,59,7,Female,Bekasi,Bahasa Inggris
+250,61,8,Female,Bogor,Bahasa Inggris
+288,58,7,Male,Tanggerang,Bahasa Inggris
+207,62,7,Male,Depok,Bahasa Inggris
+228,47,9,Female,Depok,IPA
+261,67,8,Female,Depok,Bahasa Indonesia
+300,50,7,Male,Jakarta,IPS
+242,50,9,Male,Jakarta,IPS
+297,54,7,Male,Bekasi,IPS
+226,44,8,Male,Bekasi,IPA
+212,52,9,Male,Depok,IPS
+203,53,7,Female,Tanggerang,IPS
+272,45,8,Female,Jakarta,IPA
+229,65,9,Female,Jakarta,Bahasa Indonesia
+214,65,8,Female,Jakarta,Bahasa Indonesia
+232,47,7,Female,Depok,IPA
+295,58,8,Male,Tanggerang,Bahasa Inggris
+295,46,9,Male,Bogor,IPA
+273,67,9,Female,Depok,Bahasa Indonesia
+228,37,8,Female,Depok,Matematika
+202,38,8,Male,Tanggerang,Matematika
+259,64,7,Male,Bekasi,Bahasa Indonesia
+202,45,9,Female,Jakarta,IPA
+237,69,7,Female,Bekasi,Bahasa Indonesia
+203,43,8,Female,Tanggerang,IPA
+270,60,9,Male,Jakarta,Bahasa Inggris
+213,39,8,Female,Bekasi,Matematika
+289,65,7,Female,Jakarta,Bahasa Indonesia
+249,49,7,Female,Bekasi,IPA
+290,53,9,Female,Tanggerang,IPS
+284,46,7,Male,Bogor,IPA
+271,68,9,Male,Tanggerang,Bahasa Indonesia
+282,52,8,Male,Depok,IPS
+233,51,7,Female,Bogor,IPS
+202,65,8,Female,Jakarta,Bahasa Indonesia
+296,67,8,Female,Depok,Bahasa Indonesia
+213,54,9,Male,Bekasi,IPS
+287,38,7,Male,Tanggerang,Matematika
+296,53,8,Female,Tanggerang,IPS
+238,66,9,Male,Bogor,Bahasa Indonesia
+240,45,7,Female,Jakarta,IPA
+202,56,9,Male,Bogor,IPS
+274,53,7,Female,Tanggerang,IPS
+221,36,8,Male,Bogor,Matematika
+215,37,7,Female,Depok,Matematika
+284,67,9,Female,Depok,Bahasa Indonesia
+248,64,7,Male,Bekasi,Bahasa Indonesia
+276,66,8,Male,Bogor,Bahasa Indonesia
+286,66,8,Male,Bogor,Bahasa Indonesia
+226,65,8,Female,Jakarta,Bahasa Indonesia
+240,56,9,Male,Bogor,IPS
+299,46,7,Male,Bogor,IPA
+266,68,8,Male,Tanggerang,Bahasa Indonesia
+236,54,8,Male,Bekasi,IPS
+220,55,7,Female,Jakarta,IPS
+243,60,8,Male,Jakarta,Bahasa Inggris
+265,49,8,Female,Bekasi,IPA
+284,44,9,Male,Bekasi,IPA
+205,65,7,Female,Jakarta,Bahasa Indonesia
+203,62,9,Male,Depok,Bahasa Inggris
+235,53,8,Female,Tanggerang,IPS
+221,55,9,Female,Jakarta,IPS
+250,61,7,Female,Bogor,Bahasa Inggris
+280,40,7,Male,Jakarta,Matematika
+206,64,7,Male,Bekasi,Bahasa Indonesia
+254,61,7,Female,Bogor,Bahasa Inggris
+231,41,8,Female,Bogor,Matematika
+268,53,7,Female,Tanggerang,IPS
+277,43,8,Female,Tanggerang,IPA
+235,45,7,Female,Jakarta,IPA
+201,40,8,Male,Jakarta,Matematika
+268,44,7,Male,Bekasi,IPA
+238,70,9,Male,Jakarta,Bahasa Indonesia
+209,45,8,Female,Jakarta,IPA
+289,37,9,Female,Depok,Matematika
+283,55,9,Female,Jakarta,IPS
+251,67,8,Female,Depok,Bahasa Indonesia
+239,63,9,Female,Tanggerang,Bahasa Inggris
+297,38,8,Male,Tanggerang,Matematika
+234,42,7,Male,Depok,Matematika
+283,58,8,Male,Tanggerang,Bahasa Inggris
+272,55,7,Female,Jakarta,IPS
+293,50,7,Male,Jakarta,IPS
+243,51,9,Female,Bogor,IPS
+300,39,9,Female,Bekasi,Matematika
+275,48,7,Male,Tanggerang,IPA
+268,56,9,Male,Bogor,IPS
+295,70,7,Male,Jakarta,Bahasa Indonesia
+234,56,7,Male,Bogor,IPS
+246,55,9,Female,Jakarta,IPS
+273,46,8,Male,Bogor,IPA
+285,55,9,Female,Jakarta,IPS
+246,51,7,Female,Bogor,IPS
+277,51,7,Female,Bogor,IPS
+300,38,9,Male,Tanggerang,Matematika
+209,41,9,Female,Bogor,Matematika
+277,40,9,Male,Jakarta,Matematika
+254,50,8,Male,Jakarta,IPS
+215,37,8,Female,Depok,Matematika
+218,48,7,Male,Tanggerang,IPA
+256,45,7,Female,Jakarta,IPA
+290,58,8,Male,Tanggerang,Bahasa Inggris
+202,60,9,Male,Jakarta,Bahasa Inggris
+210,40,7,Male,Jakarta,Matematika
+240,69,8,Female,Bekasi,Bahasa Indonesia
+289,59,9,Female,Bekasi,Bahasa Inggris
+219,60,7,Male,Jakarta,Bahasa Inggris
+275,66,7,Male,Bogor,Bahasa Indonesia
+220,60,8,Male,Jakarta,Bahasa Inggris
+255,38,8,Male,Tanggerang,Matematika
+218,49,7,Female,Bekasi,IPA
+220,53,7,Female,Tanggerang,IPS
+281,64,7,Male,Bekasi,Bahasa Indonesia
+271,36,8,Male,Bogor,Matematika
+252,61,7,Female,Bogor,Bahasa Inggris
+252,55,7,Female,Jakarta,IPS
+293,51,8,Female,Bogor,IPS
+263,55,7,Female,Jakarta,IPS
+245,52,8,Male,Depok,IPS
+218,56,7,Male,Bogor,IPS
+258,65,9,Female,Jakarta,Bahasa Indonesia
+242,48,7,Male,Tanggerang,IPA
+286,57,8,Female,Depok,Bahasa Inggris
+300,38,8,Male,Tanggerang,Matematika
+266,63,8,Female,Tanggerang,Bahasa Inggris
+263,67,9,Female,Depok,Bahasa Indonesia
+289,43,9,Female,Tanggerang,IPA
+240,37,8,Female,Depok,Matematika
+235,69,9,Female,Bekasi,Bahasa Indonesia
+274,37,7,Female,Depok,Matematika
+275,38,9,Male,Tanggerang,Matematika
+209,70,9,Male,Jakarta,Bahasa Indonesia
+290,55,7,Female,Jakarta,IPS
+284,57,7,Female,Depok,Bahasa Inggris
+258,54,7,Male,Bekasi,IPS
+276,64,9,Male,Bekasi,Bahasa Indonesia
+261,70,8,Male,Jakarta,Bahasa Indonesia
+239,62,8,Male,Depok,Bahasa Inggris
+230,62,9,Male,Depok,Bahasa Inggris
+218,61,9,Female,Bogor,Bahasa Inggris
+249,46,8,Male,Bogor,IPA
+288,50,8,Male,Jakarta,IPS
+257,64,8,Male,Bekasi,Bahasa Indonesia
+298,59,8,Female,Bekasi,Bahasa Inggris
+276,38,8,Male,Tanggerang,Matematika
+257,49,7,Female,Bekasi,IPA
+291,69,7,Female,Bekasi,Bahasa Indonesia
+290,41,8,Female,Bogor,Matematika
+225,45,8,Female,Jakarta,IPA
+204,70,9,Male,Jakarta,Bahasa Indonesia
+209,51,9,Female,Bogor,IPS
+211,52,7,Male,Depok,IPS
+251,55,7,Female,Jakarta,IPS
+215,70,9,Male,Jakarta,Bahasa Indonesia
+214,59,8,Female,Bekasi,Bahasa Inggris
+205,48,7,Male,Tanggerang,IPA
+273,44,7,Male,Bekasi,IPA
+228,65,9,Female,Jakarta,Bahasa Indonesia
+280,53,8,Female,Tanggerang,IPS
+250,38,9,Male,Tanggerang,Matematika
+259,37,9,Female,Depok,Matematika
+268,65,8,Female,Jakarta,Bahasa Indonesia
+248,56,7,Male,Bogor,IPS
+203,40,8,Male,Jakarta,Matematika
+293,64,7,Male,Bekasi,Bahasa Indonesia
+239,49,8,Female,Bekasi,IPA
+269,55,9,Female,Jakarta,IPS
+281,40,8,Male,Jakarta,Matematika
+228,58,8,Male,Tanggerang,Bahasa Inggris
+252,51,8,Female,Bogor,IPS
+298,45,9,Female,Jakarta,IPA
+293,42,7,Male,Depok,Matematika
+205,62,7,Male,Depok,Bahasa Inggris
+283,53,7,Female,Tanggerang,IPS
+272,45,8,Female,Jakarta,IPA
+291,47,8,Female,Depok,IPA
+267,37,9,Female,Depok,Matematika
+247,68,7,Male,Tanggerang,Bahasa Indonesia
+299,59,8,Female,Bekasi,Bahasa Inggris
+299,55,7,Female,Jakarta,IPS
+237,62,9,Male,Depok,Bahasa Inggris
+297,39,7,Female,Bekasi,Matematika
+282,55,9,Female,Jakarta,IPS
+276,61,7,Female,Bogor,Bahasa Inggris
+228,50,7,Male,Jakarta,IPS
+227,50,9,Male,Jakarta,IPS
+282,63,8,Female,Tanggerang,Bahasa Inggris
+263,37,9,Female,Depok,Matematika
+220,67,8,Female,Depok,Bahasa Indonesia
+211,66,7,Male,Bogor,Bahasa Indonesia
+298,38,9,Male,Tanggerang,Matematika
+271,38,8,Male,Tanggerang,Matematika
+239,61,8,Female,Bogor,Bahasa Inggris
+293,66,8,Male,Bogor,Bahasa Indonesia
+283,64,9,Male,Bekasi,Bahasa Indonesia
+300,49,8,Female,Bekasi,IPA
+290,44,8,Male,Bekasi,IPA
+228,36,9,Male,Bogor,Matematika
+290,68,8,Male,Tanggerang,Bahasa Indonesia
+264,64,8,Male,Bekasi,Bahasa Indonesia
+254,60,7,Male,Jakarta,Bahasa Inggris
+243,42,7,Male,Depok,Matematika
+276,59,9,Female,Bekasi,Bahasa Inggris
+217,59,9,Female,Bekasi,Bahasa Inggris
+273,50,8,Male,Jakarta,IPS
+205,59,8,Female,Bekasi,Bahasa Inggris
+223,65,9,Female,Jakarta,Bahasa Indonesia
+265,41,7,Female,Bogor,Matematika
+283,39,8,Female,Bekasi,Matematika
+247,47,8,Female,Depok,IPA
+285,37,8,Female,Depok,Matematika
+202,64,7,Male,Bekasi,Bahasa Indonesia
+217,53,9,Female,Tanggerang,IPS
+287,37,7,Female,Depok,Matematika
+270,68,8,Male,Tanggerang,Bahasa Indonesia
+254,50,9,Male,Jakarta,IPS
+244,44,7,Male,Bekasi,IPA
+256,66,9,Male,Bogor,Bahasa Indonesia
+231,44,7,Male,Bekasi,IPA
+231,66,7,Male,Bogor,Bahasa Indonesia
+223,59,9,Female,Bekasi,Bahasa Inggris
+295,41,7,Female,Bogor,Matematika
+253,41,9,Female,Bogor,Matematika
+243,49,8,Female,Bekasi,IPA
+235,49,8,Female,Bekasi,IPA
+214,43,7,Female,Tanggerang,IPA
+284,52,7,Male,Depok,IPS
+226,48,7,Male,Tanggerang,IPA
+282,55,8,Female,Jakarta,IPS
+241,44,9,Male,Bekasi,IPA
+290,59,8,Female,Bekasi,Bahasa Inggris
+279,40,9,Male,Jakarta,Matematika
+279,43,7,Female,Tanggerang,IPA
+216,48,8,Male,Tanggerang,IPA
+231,53,7,Female,Tanggerang,IPS
+269,49,7,Female,Bekasi,IPA
+257,49,7,Female,Bekasi,IPA
+226,58,9,Male,Tanggerang,Bahasa Inggris
+243,50,8,Male,Jakarta,IPS
+295,47,7,Female,Depok,IPA
+213,40,9,Male,Jakarta,Matematika
+262,50,9,Male,Jakarta,IPS
+291,58,8,Male,Tanggerang,Bahasa Inggris
+257,51,7,Female,Bogor,IPS
+294,48,8,Male,Tanggerang,IPA
+264,64,8,Male,Bekasi,Bahasa Indonesia
+239,60,8,Male,Jakarta,Bahasa Inggris
+296,70,7,Male,Jakarta,Bahasa Indonesia
+207,50,9,Male,Jakarta,IPS
+203,64,7,Male,Bekasi,Bahasa Indonesia
+279,42,7,Male,Depok,Matematika
+298,58,7,Male,Tanggerang,Bahasa Inggris
+233,37,9,Female,Depok,Matematika
+255,42,8,Male,Depok,Matematika
+264,54,8,Male,Bekasi,IPS
+254,54,7,Male,Bekasi,IPS
+285,70,7,Male,Jakarta,Bahasa Indonesia
+281,52,9,Male,Depok,IPS
+290,70,7,Male,Jakarta,Bahasa Indonesia
+268,58,8,Male,Tanggerang,Bahasa Inggris
+254,63,7,Female,Tanggerang,Bahasa Inggris
+235,51,7,Female,Bogor,IPS
+215,61,7,Female,Bogor,Bahasa Inggris
+290,60,7,Male,Jakarta,Bahasa Inggris
+202,43,9,Female,Tanggerang,IPA
+254,45,9,Female,Jakarta,IPA
+261,43,9,Female,Tanggerang,IPA
+218,49,7,Female,Bekasi,IPA
+282,61,7,Female,Bogor,Bahasa Inggris
+290,36,9,Male,Bogor,Matematika
+283,62,9,Male,Depok,Bahasa Inggris
+228,59,7,Female,Bekasi,Bahasa Inggris
+264,52,8,Male,Depok,IPS
+221,50,9,Male,Jakarta,IPS
+228,38,8,Male,Tanggerang,Matematika
+210,70,7,Male,Jakarta,Bahasa Indonesia
+270,59,8,Female,Bekasi,Bahasa Inggris
+240,43,7,Female,Tanggerang,IPA
+203,45,9,Female,Jakarta,IPA
+210,65,9,Female,Jakarta,Bahasa Indonesia
+205,37,7,Female,Depok,Matematika
+210,43,8,Female,Tanggerang,IPA
+268,47,7,Female,Depok,IPA
+224,40,7,Male,Jakarta,Matematika
+261,44,8,Male,Bekasi,IPA
+283,48,7,Male,Tanggerang,IPA
+277,63,7,Female,Tanggerang,Bahasa Inggris
+300,55,9,Female,Jakarta,IPS
+204,43,9,Female,Tanggerang,IPA
+223,65,9,Female,Jakarta,Bahasa Indonesia
+259,41,7,Female,Bogor,Matematika
+249,36,9,Male,Bogor,Matematika
+283,69,9,Female,Bekasi,Bahasa Indonesia
+300,41,8,Female,Bogor,Matematika
+238,47,9,Female,Depok,IPA
+270,36,9,Male,Bogor,Matematika
+245,47,9,Female,Depok,IPA
+271,52,8,Male,Depok,IPS
+236,60,8,Male,Jakarta,Bahasa Inggris
+209,65,7,Female,Jakarta,Bahasa Indonesia
+208,44,7,Male,Bekasi,IPA
+251,37,9,Female,Depok,Matematika
+236,37,8,Female,Depok,Matematika
+214,55,8,Female,Jakarta,IPS
+247,53,8,Female,Tanggerang,IPS
+241,42,8,Male,Depok,Matematika
+237,70,8,Male,Jakarta,Bahasa Indonesia
+293,69,7,Female,Bekasi,Bahasa Indonesia
+290,42,8,Male,Depok,Matematika
+284,45,8,Female,Jakarta,IPA
+228,37,7,Female,Depok,Matematika
+267,53,7,Female,Tanggerang,IPS
+290,65,7,Female,Jakarta,Bahasa Indonesia
+206,36,8,Male,Bogor,Matematika
+247,53,8,Female,Tanggerang,IPS
+292,57,8,Female,Depok,Bahasa Inggris
+222,44,9,Male,Bekasi,IPA
+268,52,9,Male,Depok,IPS
+263,40,9,Male,Jakarta,Matematika
+277,62,7,Male,Depok,Bahasa Inggris
+251,60,9,Male,Jakarta,Bahasa Inggris
+246,58,7,Male,Tanggerang,Bahasa Inggris
+205,47,9,Female,Depok,IPA
+234,66,9,Male,Bogor,Bahasa Indonesia
+292,49,7,Female,Bekasi,IPA
+227,65,7,Female,Jakarta,Bahasa Indonesia
+237,62,7,Male,Depok,Bahasa Inggris
+204,36,7,Male,Bogor,Matematika
+258,46,8,Male,Bogor,IPA
+205,58,9,Male,Tanggerang,Bahasa Inggris
+211,41,8,Female,Bogor,Matematika
+283,53,9,Female,Tanggerang,IPS
+291,43,9,Female,Tanggerang,IPA
+247,57,9,Female,Depok,Bahasa Inggris
+240,64,7,Male,Bekasi,Bahasa Indonesia
+276,41,7,Female,Bogor,Matematika
+247,62,7,Male,Depok,Bahasa Inggris
+268,41,9,Female,Bogor,Matematika
+282,37,9,Female,Depok,Matematika
+251,63,8,Female,Tanggerang,Bahasa Inggris
+279,70,8,Male,Jakarta,Bahasa Indonesia
+261,66,7,Male,Bogor,Bahasa Indonesia
+255,56,8,Male,Bogor,IPS
+241,59,9,Female,Bekasi,Bahasa Inggris
+264,42,7,Male,Depok,Matematika
+260,55,7,Female,Jakarta,IPS
+287,53,7,Female,Tanggerang,IPS
+259,68,8,Male,Tanggerang,Bahasa Indonesia
+293,57,7,Female,Depok,Bahasa Inggris
+296,46,9,Male,Bogor,IPA
+281,55,8,Female,Jakarta,IPS
+225,44,7,Male,Bekasi,IPA
+263,50,8,Male,Jakarta,IPS
+207,69,7,Female,Bekasi,Bahasa Indonesia
+206,64,7,Male,Bekasi,Bahasa Indonesia
+247,41,9,Female,Bogor,Matematika
+245,53,8,Female,Tanggerang,IPS
+293,63,7,Female,Tanggerang,Bahasa Inggris
+268,55,7,Female,Jakarta,IPS
+274,40,8,Male,Jakarta,Matematika
+247,64,7,Male,Bekasi,Bahasa Indonesia
+228,38,7,Male,Tanggerang,Matematika
+299,41,9,Female,Bogor,Matematika
+247,53,8,Female,Tanggerang,IPS
+282,66,8,Male,Bogor,Bahasa Indonesia
+275,68,8,Male,Tanggerang,Bahasa Indonesia
+234,39,7,Female,Bekasi,Matematika
+275,63,7,Female,Tanggerang,Bahasa Inggris
+276,46,7,Male,Bogor,IPA
+270,36,9,Male,Bogor,Matematika
+278,37,7,Female,Depok,Matematika
+275,42,8,Male,Depok,Matematika
+203,41,9,Female,Bogor,Matematika
+253,43,9,Female,Tanggerang,IPA
+234,45,8,Female,Jakarta,IPA
+298,42,9,Male,Depok,Matematika
+215,57,8,Female,Depok,Bahasa Inggris
+277,68,8,Male,Tanggerang,Bahasa Indonesia
+225,58,9,Male,Tanggerang,Bahasa Inggris
+240,68,8,Male,Tanggerang,Bahasa Indonesia
+237,41,9,Female,Bogor,Matematika
+291,57,9,Female,Depok,Bahasa Inggris
+228,58,8,Male,Tanggerang,Bahasa Inggris
+214,40,8,Male,Jakarta,Matematika
+246,44,7,Male,Bekasi,IPA
+266,52,7,Male,Depok,IPS
+260,42,7,Male,Depok,Matematika
+208,39,7,Female,Bekasi,Matematika
+263,47,8,Female,Depok,IPA
+243,55,7,Female,Jakarta,IPS
+204,67,8,Female,Depok,Bahasa Indonesia
+242,48,9,Male,Tanggerang,IPA
+204,66,9,Male,Bogor,Bahasa Indonesia
+210,45,8,Female,Jakarta,IPA
+257,36,7,Male,Bogor,Matematika
+299,50,9,Male,Jakarta,IPS
+211,57,7,Female,Depok,Bahasa Inggris
+247,63,9,Female,Tanggerang,Bahasa Inggris
+268,59,7,Female,Bekasi,Bahasa Inggris
+284,48,8,Male,Tanggerang,IPA
+236,42,9,Male,Depok,Matematika
+261,61,9,Female,Bogor,Bahasa Inggris
+295,59,9,Female,Bekasi,Bahasa Inggris
+207,65,7,Female,Jakarta,Bahasa Indonesia
+253,54,8,Male,Bekasi,IPS
+222,47,7,Female,Depok,IPA
+293,36,8,Male,Bogor,Matematika
+237,57,9,Female,Depok,Bahasa Inggris
+276,69,9,Female,Bekasi,Bahasa Indonesia
+289,36,8,Male,Bogor,Matematika
+220,69,9,Female,Bekasi,Bahasa Indonesia
+279,53,8,Female,Tanggerang,IPS
+289,61,8,Female,Bogor,Bahasa Inggris
+236,56,7,Male,Bogor,IPS
+300,49,9,Female,Bekasi,IPA
+234,45,9,Female,Jakarta,IPA
+205,61,9,Female,Bogor,Bahasa Inggris
+205,59,8,Female,Bekasi,Bahasa Inggris
+300,42,7,Male,Depok,Matematika
+207,70,7,Male,Jakarta,Bahasa Indonesia
+258,68,8,Male,Tanggerang,Bahasa Indonesia
+258,58,9,Male,Tanggerang,Bahasa Inggris
+250,61,9,Female,Bogor,Bahasa Inggris
+234,63,8,Female,Tanggerang,Bahasa Inggris
+224,65,7,Female,Jakarta,Bahasa Indonesia
+248,59,7,Female,Bekasi,Bahasa Inggris
+222,41,7,Female,Bogor,Matematika
+269,47,9,Female,Depok,IPA
+228,56,7,Male,Bogor,IPS
+297,63,9,Female,Tanggerang,Bahasa Inggris
+254,50,9,Male,Jakarta,IPS
+231,55,8,Female,Jakarta,IPS
+278,40,7,Male,Jakarta,Matematika
+255,40,7,Male,Jakarta,Matematika
+232,70,9,Male,Jakarta,Bahasa Indonesia
+229,54,7,Male,Bekasi,IPS
+231,47,9,Female,Depok,IPA
+273,49,8,Female,Bekasi,IPA
+281,37,7,Female,Depok,Matematika
+299,52,8,Male,Depok,IPS
+216,67,9,Female,Depok,Bahasa Indonesia
+203,59,7,Female,Bekasi,Bahasa Inggris
+296,48,8,Male,Tanggerang,IPA
+266,45,9,Female,Jakarta,IPA
+262,40,9,Male,Jakarta,Matematika
+217,36,9,Male,Bogor,Matematika
+257,64,8,Male,Bekasi,Bahasa Indonesia
+225,61,8,Female,Bogor,Bahasa Inggris
+286,48,8,Male,Tanggerang,IPA
+213,40,7,Male,Jakarta,Matematika
+237,51,9,Female,Bogor,IPS
+219,55,8,Female,Jakarta,IPS
+237,59,9,Female,Bekasi,Bahasa Inggris
+223,61,7,Female,Bogor,Bahasa Inggris
+265,63,7,Female,Tanggerang,Bahasa Inggris
+289,49,8,Female,Bekasi,IPA
+232,37,9,Female,Depok,Matematika
+257,54,8,Male,Bekasi,IPS
+284,45,8,Female,Jakarta,IPA
+278,58,8,Male,Tanggerang,Bahasa Inggris
+263,47,9,Female,Depok,IPA
+269,57,8,Female,Depok,Bahasa Inggris
+250,62,7,Male,Depok,Bahasa Inggris
+274,67,9,Female,Depok,Bahasa Indonesia
+212,69,7,Female,Bekasi,Bahasa Indonesia
+215,56,7,Male,Bogor,IPS
+269,70,8,Male,Jakarta,Bahasa Indonesia
+286,42,8,Male,Depok,Matematika
+235,39,8,Female,Bekasi,Matematika
+237,52,7,Male,Depok,IPS
+269,56,7,Male,Bogor,IPS
+230,42,7,Male,Depok,Matematika
+204,37,9,Female,Depok,Matematika
+298,48,7,Male,Tanggerang,IPA
+300,38,9,Male,Tanggerang,Matematika
+226,43,8,Female,Tanggerang,IPA
+281,62,9,Male,Depok,Bahasa Inggris
+225,65,7,Female,Jakarta,Bahasa Indonesia
+226,60,8,Male,Jakarta,Bahasa Inggris
+248,69,9,Female,Bekasi,Bahasa Indonesia
+291,56,7,Male,Bogor,IPS
+294,69,9,Female,Bekasi,Bahasa Indonesia
+262,61,9,Female,Bogor,Bahasa Inggris
+220,61,9,Female,Bogor,Bahasa Inggris
+270,56,9,Male,Bogor,IPS
+236,65,8,Female,Jakarta,Bahasa Indonesia
+231,63,8,Female,Tanggerang,Bahasa Inggris
+244,42,8,Male,Depok,Matematika
+224,48,7,Male,Tanggerang,IPA
+268,59,8,Female,Bekasi,Bahasa Inggris
+269,66,9,Male,Bogor,Bahasa Indonesia
+262,64,9,Male,Bekasi,Bahasa Indonesia
+227,42,7,Male,Depok,Matematika
+272,46,9,Male,Bogor,IPA
+205,67,8,Female,Depok,Bahasa Indonesia
+265,45,9,Female,Jakarta,IPA
+249,61,9,Female,Bogor,Bahasa Inggris
+206,49,7,Female,Bekasi,IPA
+248,47,9,Female,Depok,IPA
+300,62,9,Male,Depok,Bahasa Inggris
+219,49,9,Female,Bekasi,IPA
+278,63,8,Female,Tanggerang,Bahasa Inggris
+255,41,9,Female,Bogor,Matematika
+264,58,7,Male,Tanggerang,Bahasa Inggris
+273,49,9,Female,Bekasi,IPA
+224,56,8,Male,Bogor,IPS
+235,39,7,Female,Bekasi,Matematika
+289,66,7,Male,Bogor,Bahasa Indonesia
+279,69,7,Female,Bekasi,Bahasa Indonesia
+293,44,7,Male,Bekasi,IPA
+225,46,8,Male,Bogor,IPA
+209,65,8,Female,Jakarta,Bahasa Indonesia
+288,39,7,Female,Bekasi,Matematika
+294,38,7,Male,Tanggerang,Matematika
+291,57,7,Female,Depok,Bahasa Inggris
+291,47,9,Female,Depok,IPA
+206,48,8,Male,Tanggerang,IPA
+282,38,8,Male,Tanggerang,Matematika
+276,37,8,Female,Depok,Matematika
+284,39,9,Female,Bekasi,Matematika
+283,53,8,Female,Tanggerang,IPS
+267,65,7,Female,Jakarta,Bahasa Indonesia
+218,43,8,Female,Tanggerang,IPA
+203,44,7,Male,Bekasi,IPA
+283,56,9,Male,Bogor,IPS
+265,46,7,Male,Bogor,IPA
+244,38,8,Male,Tanggerang,Matematika
+288,49,7,Female,Bekasi,IPA
+241,69,8,Female,Bekasi,Bahasa Indonesia
+282,54,9,Male,Bekasi,IPS
+223,43,9,Female,Tanggerang,IPA
+277,40,7,Male,Jakarta,Matematika
+265,51,8,Female,Bogor,IPS
+262,50,9,Male,Jakarta,IPS
+293,56,9,Male,Bogor,IPS
+231,63,7,Female,Tanggerang,Bahasa Inggris
+221,68,8,Male,Tanggerang,Bahasa Indonesia
+264,57,7,Female,Depok,Bahasa Inggris
+204,56,8,Male,Bogor,IPS
+225,36,7,Male,Bogor,Matematika
+201,66,9,Male,Bogor,Bahasa Indonesia
+205,58,9,Male,Tanggerang,Bahasa Inggris
+284,58,9,Male,Tanggerang,Bahasa Inggris
+231,45,8,Female,Jakarta,IPA
+236,57,7,Female,Depok,Bahasa Inggris
+219,41,9,Female,Bogor,Matematika
+276,58,8,Male,Tanggerang,Bahasa Inggris
+204,49,8,Female,Bekasi,IPA
+279,51,7,Female,Bogor,IPS
+273,58,8,Male,Tanggerang,Bahasa Inggris
+228,66,9,Male,Bogor,Bahasa Indonesia
+233,65,7,Female,Jakarta,Bahasa Indonesia
+206,58,7,Male,Tanggerang,Bahasa Inggris
+298,48,9,Male,Tanggerang,IPA
+276,62,8,Male,Depok,Bahasa Inggris
+252,68,9,Male,Tanggerang,Bahasa Indonesia
+208,55,8,Female,Jakarta,IPS
+280,68,7,Male,Tanggerang,Bahasa Indonesia
+209,44,9,Male,Bekasi,IPA
+218,46,9,Male,Bogor,IPA
+231,60,8,Male,Jakarta,Bahasa Inggris
+283,39,9,Female,Bekasi,Matematika
+214,41,8,Female,Bogor,Matematika
+235,67,7,Female,Depok,Bahasa Indonesia
+255,40,9,Male,Jakarta,Matematika
+223,41,8,Female,Bogor,Matematika
+267,36,9,Male,Bogor,Matematika
+257,63,7,Female,Tanggerang,Bahasa Inggris
+204,61,9,Female,Bogor,Bahasa Inggris
+258,38,9,Male,Tanggerang,Matematika
+262,59,9,Female,Bekasi,Bahasa Inggris
+213,50,9,Male,Jakarta,IPS
+286,66,7,Male,Bogor,Bahasa Indonesia
+201,58,7,Male,Tanggerang,Bahasa Inggris
+249,41,9,Female,Bogor,Matematika
+274,58,7,Male,Tanggerang,Bahasa Inggris
+291,52,7,Male,Depok,IPS
+235,47,9,Female,Depok,IPA
+235,69,8,Female,Bekasi,Bahasa Indonesia
+287,47,9,Female,Depok,IPA
+286,59,8,Female,Bekasi,Bahasa Inggris
+201,54,8,Male,Bekasi,IPS
+249,41,9,Female,Bogor,Matematika
+229,70,9,Male,Jakarta,Bahasa Indonesia
+256,62,8,Male,Depok,Bahasa Inggris
+243,60,8,Male,Jakarta,Bahasa Inggris
+226,39,7,Female,Bekasi,Matematika
+247,66,7,Male,Bogor,Bahasa Indonesia
+260,51,8,Female,Bogor,IPS
+275,45,9,Female,Jakarta,IPA
+256,39,8,Female,Bekasi,Matematika
+295,70,9,Male,Jakarta,Bahasa Indonesia
+271,41,7,Female,Bogor,Matematika
+245,45,8,Female,Jakarta,IPA
+215,54,9,Male,Bekasi,IPS
+252,49,8,Female,Bekasi,IPA
+246,47,8,Female,Depok,IPA
+239,38,7,Male,Tanggerang,Matematika
+289,58,7,Male,Tanggerang,Bahasa Inggris
+268,36,7,Male,Bogor,Matematika
+211,46,8,Male,Bogor,IPA
+273,44,9,Male,Bekasi,IPA
+282,39,9,Female,Bekasi,Matematika
+220,39,7,Female,Bekasi,Matematika
+246,47,8,Female,Depok,IPA
+300,43,7,Female,Tanggerang,IPA
+227,53,8,Female,Tanggerang,IPS
+262,62,7,Male,Depok,Bahasa Inggris
+296,64,9,Male,Bekasi,Bahasa Indonesia
+215,50,7,Male,Jakarta,IPS
+262,49,8,Female,Bekasi,IPA
+208,69,7,Female,Bekasi,Bahasa Indonesia
+287,40,9,Male,Jakarta,Matematika
+295,47,8,Female,Depok,IPA
+274,54,9,Male,Bekasi,IPS
+264,45,7,Female,Jakarta,IPA
+259,64,9,Male,Bekasi,Bahasa Indonesia
+264,61,9,Female,Bogor,Bahasa Inggris
+295,69,7,Female,Bekasi,Bahasa Indonesia
+219,43,7,Female,Tanggerang,IPA
+250,42,8,Male,Depok,Matematika
+259,42,9,Male,Depok,Matematika
+256,37,8,Female,Depok,Matematika
+215,49,7,Female,Bekasi,IPA
+240,57,9,Female,Depok,Bahasa Inggris
+209,63,7,Female,Tanggerang,Bahasa Inggris
+268,60,7,Male,Jakarta,Bahasa Inggris
+212,36,9,Male,Bogor,Matematika
+223,70,8,Male,Jakarta,Bahasa Indonesia
+247,43,8,Female,Tanggerang,IPA
+205,61,7,Female,Bogor,Bahasa Inggris
+245,42,9,Male,Depok,Matematika
+246,66,8,Male,Bogor,Bahasa Indonesia
+275,43,9,Female,Tanggerang,IPA
+229,46,7,Male,Bogor,IPA
+290,52,9,Male,Depok,IPS
+226,45,8,Female,Jakarta,IPA
+299,42,8,Male,Depok,Matematika
+277,69,7,Female,Bekasi,Bahasa Indonesia
+253,58,7,Male,Tanggerang,Bahasa Inggris
+282,70,9,Male,Jakarta,Bahasa Indonesia
+202,69,9,Female,Bekasi,Bahasa Indonesia
+212,45,8,Female,Jakarta,IPA
+213,54,8,Male,Bekasi,IPS
+216,39,8,Female,Bekasi,Matematika
+229,56,8,Male,Bogor,IPS
+276,48,7,Male,Tanggerang,IPA
+267,43,8,Female,Tanggerang,IPA
+289,39,8,Female,Bekasi,Matematika
+297,36,8,Male,Bogor,Matematika
+230,67,7,Female,Depok,Bahasa Indonesia
+284,67,8,Female,Depok,Bahasa Indonesia
+205,58,9,Male,Tanggerang,Bahasa Inggris
+277,66,7,Male,Bogor,Bahasa Indonesia
+214,49,9,Female,Bekasi,IPA
+207,67,8,Female,Depok,Bahasa Indonesia
+206,37,7,Female,Depok,Matematika
+235,48,8,Male,Tanggerang,IPA
+207,52,7,Male,Depok,IPS
+203,50,7,Male,Jakarta,IPS
+267,51,7,Female,Bogor,IPS
+224,65,8,Female,Jakarta,Bahasa Indonesia
+296,43,8,Female,Tanggerang,IPA
+281,70,7,Male,Jakarta,Bahasa Indonesia
+245,60,9,Male,Jakarta,Bahasa Inggris
+264,68,7,Male,Tanggerang,Bahasa Indonesia
+215,41,9,Female,Bogor,Matematika
+256,69,7,Female,Bekasi,Bahasa Indonesia
+236,56,7,Male,Bogor,IPS
+256,58,7,Male,Tanggerang,Bahasa Inggris
+240,57,7,Female,Depok,Bahasa Inggris
+203,54,8,Male,Bekasi,IPS
+254,63,7,Female,Tanggerang,Bahasa Inggris
+230,48,7,Male,Tanggerang,IPA
+222,37,8,Female,Depok,Matematika
+292,59,8,Female,Bekasi,Bahasa Inggris
+277,60,8,Male,Jakarta,Bahasa Inggris
+246,67,7,Female,Depok,Bahasa Indonesia
+217,54,8,Male,Bekasi,IPS
+284,42,8,Male,Depok,Matematika
+207,47,8,Female,Depok,IPA
+293,38,8,Male,Tanggerang,Matematika
+237,64,8,Male,Bekasi,Bahasa Indonesia
+210,54,8,Male,Bekasi,IPS
+276,44,9,Male,Bekasi,IPA
+247,60,9,Male,Jakarta,Bahasa Inggris
+278,46,7,Male,Bogor,IPA
+203,45,8,Female,Jakarta,IPA
+239,50,8,Male,Jakarta,IPS
+291,53,9,Female,Tanggerang,IPS
+202,50,9,Male,Jakarta,IPS
+236,44,7,Male,Bekasi,IPA
+263,69,7,Female,Bekasi,Bahasa Indonesia
+255,39,7,Female,Bekasi,Matematika
+300,38,9,Male,Tanggerang,Matematika
+279,62,7,Male,Depok,Bahasa Inggris
+240,54,9,Male,Bekasi,IPS
+261,49,8,Female,Bekasi,IPA
+226,54,8,Male,Bekasi,IPS
+232,43,9,Female,Tanggerang,IPA
+213,65,7,Female,Jakarta,Bahasa Indonesia
+249,66,8,Male,Bogor,Bahasa Indonesia
+231,64,7,Male,Bekasi,Bahasa Indonesia
+260,54,7,Male,Bekasi,IPS
+212,43,7,Female,Tanggerang,IPA
+255,57,7,Female,Depok,Bahasa Inggris
+209,54,7,Male,Bekasi,IPS
+289,39,7,Female,Bekasi,Matematika
+229,56,7,Male,Bogor,IPS
+252,57,7,Female,Depok,Bahasa Inggris
+271,51,7,Female,Bogor,IPS
+290,66,7,Male,Bogor,Bahasa Indonesia
+222,69,9,Female,Bekasi,Bahasa Indonesia
+225,43,8,Female,Tanggerang,IPA
+299,63,7,Female,Tanggerang,Bahasa Inggris
+245,58,9,Male,Tanggerang,Bahasa Inggris
+296,51,7,Female,Bogor,IPS
+245,65,9,Female,Jakarta,Bahasa Indonesia
+257,66,9,Male,Bogor,Bahasa Indonesia
+282,62,8,Male,Depok,Bahasa Inggris
+251,49,7,Female,Bekasi,IPA
+259,56,9,Male,Bogor,IPS
+262,58,9,Male,Tanggerang,Bahasa Inggris
+214,61,7,Female,Bogor,Bahasa Inggris
+265,46,8,Male,Bogor,IPA
+239,39,8,Female,Bekasi,Matematika
+201,46,8,Male,Bogor,IPA
+258,51,9,Female,Bogor,IPS
+237,45,7,Female,Jakarta,IPA
+277,50,9,Male,Jakarta,IPS
+247,38,7,Male,Tanggerang,Matematika
+240,68,9,Male,Tanggerang,Bahasa Indonesia
+203,61,9,Female,Bogor,Bahasa Inggris
+234,52,7,Male,Depok,IPS
+286,57,8,Female,Depok,Bahasa Inggris
+235,40,7,Male,Jakarta,Matematika
+244,42,9,Male,Depok,Matematika
+227,55,9,Female,Jakarta,IPS
+273,39,7,Female,Bekasi,Matematika
+237,56,7,Male,Bogor,IPS
+258,63,7,Female,Tanggerang,Bahasa Inggris
+251,59,7,Female,Bekasi,Bahasa Inggris
+223,69,9,Female,Bekasi,Bahasa Indonesia
+297,38,9,Male,Tanggerang,Matematika
+231,65,7,Female,Jakarta,Bahasa Indonesia
+204,48,7,Male,Tanggerang,IPA
+230,64,9,Male,Bekasi,Bahasa Indonesia
+239,51,8,Female,Bogor,IPS
+285,55,9,Female,Jakarta,IPS
+289,51,9,Female,Bogor,IPS
+252,59,9,Female,Bekasi,Bahasa Inggris
+270,61,9,Female,Bogor,Bahasa Inggris
+223,48,7,Male,Tanggerang,IPA
+269,65,7,Female,Jakarta,Bahasa Indonesia
+230,51,9,Female,Bogor,IPS
+238,48,9,Male,Tanggerang,IPA
+250,64,7,Male,Bekasi,Bahasa Indonesia
+212,47,8,Female,Depok,IPA
+208,62,7,Male,Depok,Bahasa Inggris
+262,54,8,Male,Bekasi,IPS
+294,66,8,Male,Bogor,Bahasa Indonesia
+216,63,9,Female,Tanggerang,Bahasa Inggris
+295,62,8,Male,Depok,Bahasa Inggris
+274,46,8,Male,Bogor,IPA
+265,57,7,Female,Depok,Bahasa Inggris
+252,67,7,Female,Depok,Bahasa Indonesia
+265,37,9,Female,Depok,Matematika
+285,67,9,Female,Depok,Bahasa Indonesia
+228,52,9,Male,Depok,IPS
+282,54,8,Male,Bekasi,IPS
+219,48,7,Male,Tanggerang,IPA
+289,58,7,Male,Tanggerang,Bahasa Inggris
+223,37,9,Female,Depok,Matematika
+285,58,9,Male,Tanggerang,Bahasa Inggris
+210,42,7,Male,Depok,Matematika
+249,45,9,Female,Jakarta,IPA
+298,36,9,Male,Bogor,Matematika
+219,56,8,Male,Bogor,IPS
+268,59,7,Female,Bekasi,Bahasa Inggris
+235,57,7,Female,Depok,Bahasa Inggris
+293,36,7,Male,Bogor,Matematika
+206,42,9,Male,Depok,Matematika
+240,62,9,Male,Depok,Bahasa Inggris
+274,62,8,Male,Depok,Bahasa Inggris
+285,54,9,Male,Bekasi,IPS
+289,38,8,Male,Tanggerang,Matematika
+286,50,8,Male,Jakarta,IPS
+206,54,7,Male,Bekasi,IPS
+300,42,7,Male,Depok,Matematika
+286,62,9,Male,Depok,Bahasa Inggris
+214,36,9,Male,Bogor,Matematika
+211,36,8,Male,Bogor,Matematika
+238,64,7,Male,Bekasi,Bahasa Indonesia
+206,37,9,Female,Depok,Matematika
+265,47,9,Female,Depok,IPA
+228,61,7,Female,Bogor,Bahasa Inggris
+255,69,8,Female,Bekasi,Bahasa Indonesia
+258,44,9,Male,Bekasi,IPA
+271,52,8,Male,Depok,IPS
+295,38,8,Male,Tanggerang,Matematika
